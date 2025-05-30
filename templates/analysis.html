@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Sentiment Analysis</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        padding: 40px;
+        background-color: #f2f2f2;
+        text-align: center;
+      }
+
+      button {
+        padding: 12px 25px;
+        font-size: 16px;
+        background-color: #4caf50;
+        color: white;
+        border: none;
+        border-radius: 6px;
+        cursor: pointer;
+      }
+
+      #download-link {
+        margin-top: 30px;
+        display: none;
+      }
+
+      #terminal-animation {
+        width: 80%;
+        margin: 20px auto;
+        background: black;
+        color: #0f0;
+        font-family: "Courier New", Courier, monospace;
+        font-size: 14px;
+        padding: 15px;
+        border-radius: 10px;
+        text-align: left;
+        max-height: 200px;
+        overflow-y: auto;
+        display: none;
+        box-shadow: 0 0 10px #0f0;
+        white-space: pre-wrap;
+        line-height: 1.4;
+        animation: flicker 0.2s infinite alternate;
+      }
+
+      @keyframes flicker {
+        0% { opacity: 0.9; }
+        100% { opacity: 1; }
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Sentiment Analysis for {{ city.replace("_", " ").title() }}</h1>
+
+    <form id="analysisForm" method="POST">
+      <button type="submit">Start Sentiment Analysis</button>
+    </form>
+
+    <div id="terminal-animation">
+      <span id="terminal-output">Initializing Sentiment Analysis...</span>
+    </div>
+
+    <div id="download-link">
+      <p>Sentiment analysis completed!</p>
+      <a id="downloadBtn" href="" download>
+        <button>Download Result CSV</button>
+      </a>
+    </div>
+
+    <script>
+      const form = document.getElementById("analysisForm");
+      const downloadLink = document.getElementById("download-link");
+      const downloadBtn = document.getElementById("downloadBtn");
+      const terminal = document.getElementById("terminal-animation");
+      const terminalOutput = document.getElementById("terminal-output");
+
+      form.addEventListener("submit", function (event) {
+        event.preventDefault();
+
+        terminal.style.display = "block";
+        terminalOutput.textContent = "Initializing Sentiment Analysis...\n";
+
+        let steps = [
+          "Loading scraped reviews...",
+          "Preprocessing text...",
+          "Running BERT model...",
+          "Extracting keyword tags...",
+          "Compiling results...",
+          "Saving CSV output..."
+        ];
+        let lineIndex = 0;
+        const terminalInterval = setInterval(() => {
+          if (lineIndex < steps.length) {
+            terminalOutput.textContent += steps[lineIndex++] + "\n";
+            terminal.scrollTop = terminal.scrollHeight;
+          }
+        }, 700);
+
+        fetch(`/start-analysis/{{ city }}`, {
+          method: "POST"
+        })
+        .then(response => response.text())
+        .then(html => {
+          clearInterval(terminalInterval);
+          terminalOutput.textContent += "Sentiment Analysis Complete!";
+          terminal.scrollTop = terminal.scrollHeight;
+
+          const filename = `sentiment_{{ city }}.csv`;
+          downloadBtn.href = `/download/${filename}`;
+          downloadLink.style.display = "block";
+        })
+        .catch(error => {
+          clearInterval(terminalInterval);
+          terminalOutput.textContent += "❌ Error occurred during analysis.";
+        });
+      });
+    </script>
+  </body>
+</html>

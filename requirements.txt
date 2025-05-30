@@ -1,0 +1,6 @@
+Flask
+beautifulsoup4
+pandas
+playwright
+transformers
+torch

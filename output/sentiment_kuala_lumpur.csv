@@ -1,0 +1,971 @@
+Hotel Name,Rating,Review,sentence,sentiment_score_1,sentiment_score_2,sentiment_score_3,sentiment_score_4,sentiment_score_5,weighted_sentiment,classification_label
+Zenith Hotel Putrajaya,5 stars out of 5,"ChatGPT
+
+Log in
+You said:
+Tolong buat review untuk hotel in english
+ChatGPT said:
+Sure! Here's a general review template in English that you can customize based on your experience:
+
+Hotel Review
+
+I recently stayed at [Hotel Name], and overall, it was a [positive/negative/mixed] experience.
+
+Location:
+The hotel is located [mention location – e.g., in the heart of the city/close to tourist attractions/quiet and peaceful]. It was very convenient for [shopping, dining, sightseeing, etc.].
+
+Room:
+The room was [describe the room – clean, spacious, comfortable, etc.], with [mention any features like a good view, modern decor, air conditioning, etc.]. The bed was [comfortable/uncomfortable], and the bathroom was [clean/well-stocked/spacious].
+
+Service:
+The staff were [friendly/helpful/unfriendly]. They [mention any outstanding service – e.g., helped with luggage, provided directions, quick check-in/out].
+
+Facilities:
+The hotel offers [mention amenities like free Wi-Fi, pool, gym, restaurant, spa, etc.]. I especially liked [mention something specific you enjoyed].
+
+Food:
+The food was [delicious/average/disappointing], and the breakfast buffet had [good variety/limited choices]. The restaurant [mention service and quality].
+
+Value for Money:
+Overall, I felt the hotel was [worth the price/too expensive/great value for money] given the location and services.
+
+Conclusion:
+I would [recommend/not recommend] this hotel to others, especially for [type of travelers – families, business travelers, couples, etc.].
+
+Let me know the specific details and I can tailor it for your hotel experience!
+
+You said:
+
+I recently stayed here for an event organize by my company. ocation:
+The hotel is located in about 500 metres walking distance from the event. It was very convenient for sightseeing too. The room was clean, spacious & comfortable,  Bathroom with bathtub.. love it.overall i felt the hotel was great value for money. I would recommend this hotel to others, especially families & friends
+ChatGPT said:
+Great! Here's a polished version of your hotel review in English:
+
+Hotel Review
+
+I recently stayed here for an event organized by my company.
+
+Location:
+The hotel is located about 500 meters from the event venue, which made it very convenient. It’s also a great spot for sightseeing, with many attractions within walking distance.
+
+Room:
+The room was clean, spacious, and comfortable. I especially loved the bathroom, which came with a bathtub—a perfect way to relax after a long day.
+
+Value for Money:
+Overall, I felt the hotel offered great value for money considering the location, comfort, and facilities provided.
+
+Conclusion:
+I would definitely recommend this hotel to others, especially families and friends looking for a comfortable and convenient place to stay.","], with [mention any features like a good view, modern decor, air conditioning, etc",0.0665,0.0915,0.1817,0.3486,0.3117,3.7475,4f
+Zenith Hotel Putrajaya,5 stars out of 5,"Awesome hotel services include personalized, luxurious, and convenient offerings such as 24/7 concierge, spa treatments, gourmet dining, smart room features, and unique guest experiences","Awesome hotel services include personalized, luxurious, and convenient offerings such as 24/7 concierge, spa treatments, gourmet dining, smart room features, and unique guest experiences",0.0011,0.001,0.0096,0.1634,0.825,4.8102,6b_1
+Zenith Hotel Putrajaya,5 stars out of 5,"Awesome hotel services include personalized, luxurious, and convenient offerings such as 24/7 concierge, spa treatments, gourmet dining, smart room features, and unique guest experiences","Awesome hotel services include personalized, luxurious, and convenient offerings such as 24/7 concierge, spa treatments, gourmet dining, smart room features, and unique guest experiences",0.0011,0.001,0.0096,0.1634,0.825,4.8102,4i
+Zenith Hotel Putrajaya,5 stars out of 5,"I am very grateful for my stay at Zenith Putrajaya.My empathy goes out to all persons who may have found faults with their stays but I had none.Firstly,I took it seriously when some said that their rooms were dusty,as I have a dust mite shit allergy and I can get sick from it.I did not get sick at all but I flourished.The complimentary breakfast food may not be the most creative but they had such a variety so that I was satisfied with what I picked and chose.(Please bear in mind that they have an alfresco area right beside the lake that allows you a beautifully relaxed breakfast,with additional food items like soup noodles, lemang,omelettes and roti canai stations.).As I could only come back from my work by 6.30pm,I would quickly rush to the swimming pool (which closes by 7 pm),before using the gym and sauna(which close at 10pm).I spent 5 nights here and I am all the better for it.My grateful thanks to the staff who work very hard.","30pm,I would quickly rush to the swimming pool (which closes by 7 pm),before using the gym and sauna(which close at 10pm)",0.2399,0.3106,0.2804,0.1206,0.0485,2.4272,6d_1
+Zenith Hotel Putrajaya,5 stars out of 5,"tempat okay je cantik, bersih tp kalau ada shuttle lagi nice. time tu pergi masa sambut new year","tempat okay je cantik, bersih tp kalau ada shuttle lagi nice",0.0139,0.0673,0.4804,0.338,0.1004,3.4438,3c
+Zenith Hotel Putrajaya,5 stars out of 5,"The scenery was awesome especially at night. However, room cleaning should be improved. There were still traces of food crumbs from previous customer, used cotton bud in the dustbin and partially blocked shower drainage.","There were still traces of food crumbs from previous customer, used cotton bud in the dustbin and partially blocked shower drainage",0.3708,0.3986,0.1745,0.0455,0.0107,1.9265,2e_1
+Zenith Hotel Putrajaya,5 stars out of 5,"When I called them to confirm my booking I was told that the room is included with breakfast. After I checked in, they said it doesnt come with breakfast and we have to pay extra for it. I dont mind that part because there could be a misunderstanding between the staffs but still quite dissapointed. They forgot to remove the garbage when we checked in and the pillow smells like urine. Never coming here again 😕",They forgot to remove the garbage when we checked in and the pillow smells like urine,0.6615,0.2511,0.0655,0.0137,0.0081,1.4559,4e
+Zenith Hotel Putrajaya,5 stars out of 5,Convenience and clean to cater our needs.,Convenience and clean to cater our needs,0.0025,0.0038,0.0531,0.4269,0.5137,4.4457,3d_1
+Zenith Hotel Putrajaya,5 stars out of 5,"Overall it is ok to stay here. Hotel staff are all friendly.  My experience, I see with my own eye... The day I checked in , all goes well.  But the parking is a bit tight. Even when almost full. 
+
+That  particular day was a full house.   There was no consideration to park in a hotel compound.  I have asked to the person in charge and also the guard ..  no consideration at all.  I am the guest in the hotel.  They ask to park outside at the parking lot I mean Out side the hotel compound.  This is not good. I have to hilight this. Please take not about this issue. What else I can do.",But the parking is a bit tight,0.0136,0.0991,0.5782,0.2873,0.0218,3.2045,4j
+Zenith Hotel Putrajaya,5 stars out of 5,"Overall it is ok to stay here. Hotel staff are all friendly.  My experience, I see with my own eye... The day I checked in , all goes well.  But the parking is a bit tight. Even when almost full. 
+
+That  particular day was a full house.   There was no consideration to park in a hotel compound.  I have asked to the person in charge and also the guard ..  no consideration at all.  I am the guest in the hotel.  They ask to park outside at the parking lot I mean Out side the hotel compound.  This is not good. I have to hilight this. Please take not about this issue. What else I can do.",They ask to park outside at the parking lot I mean Out side the hotel compound,0.3228,0.2843,0.2227,0.1081,0.062,2.3021,4j
+Zenith Hotel Putrajaya,5 stars out of 5,"I had a wonderful experience at Zenith Putra Jaya. The service was excellent, the staff were friendly and attentive, and the overall atmosphere was comfortable and welcoming. The facilities are well-maintained, and everything felt clean and organized. The only downside was the parking lot—it can be a bit tight and limited during peak hours. That said, it’s a minor inconvenience compared to the overall quality of the place. Definitely worth a visit",The only downside was the parking lot—it can be a bit tight and limited during peak hours,0.0064,0.0426,0.3467,0.5673,0.037,3.5859,4j
+Zenith Hotel Putrajaya,5 stars out of 5,"Room is excellent, and due to its location, its easy to go in and out, with allocated parking. 
+
+I would recommend for travellers looking for a short stay with proximity to places they intent to go but still able to get that privacy and away from city noises.
+
+Plus the views, offcourse.","Room is excellent, and due to its location, its easy to go in and out, with allocated parking",0.0016,0.0022,0.0203,0.2916,0.6844,4.6549,4j
+Zenith Hotel Putrajaya,5 stars out of 5,Room are spacious. Im going for running event at dataran wawasan and it is so near the hotel. Near restoran nasi kandar. Good scenery of gov building.. Downside is the parking space im circle 3 times no parking space availble maybe can add more parking space.,Downside is the parking space im circle 3 times no parking space availble maybe can add more parking space,0.1886,0.3876,0.3677,0.0476,0.0086,2.3001,4j
+Zenith Hotel Putrajaya,5 stars out of 5,"Stayed here for an office event because the hotel is very close to the venue. The food and room were very nice, but there was a problem with parking.","The food and room were very nice, but there was a problem with parking",0.0423,0.2486,0.5189,0.1789,0.0113,2.8682,4j
+Zenith Hotel Putrajaya,5 stars out of 5,"Bilik ok. View cantik menghadap tasik.Lif hanya 3 berfungsi. Parking limited. Breakfast dikira mahal, dengan makanan yg kebanyakan terlalu masin dan x byk pilihan. Pembakar roti pon rosak.",Parking limited,0.2152,0.2739,0.3378,0.1216,0.0515,2.5202,4j
+Zenith Hotel Putrajaya,5 stars out of 5,"Location is very romantic hehe . Top
+Notch cleanliness . Smell nice . Everything is very nice . Have parking . Staff okay.. if u want to have a good time with yourself partner or family then thiss will be the hotel unlooking for . The view from the window is also nice ..",Have parking,0.1158,0.1092,0.2109,0.276,0.2881,3.5115,4j
+Zenith Hotel Putrajaya,5 stars out of 5,"All I can say its everything is almost perfect during my staycation at this hotel 3D 2N with breakfast. Only my recommendation towards Zenith Hotel management is, it just will be nice to have bathrooms with lock. At least there'll be privacy for groups of family or friends to stay and have a nice shower without disturbance. A small improvements will help a lot. Looking forward to stay at Zenith Hotel in other times. TQ.",At least there'll be privacy for groups of family or friends to stay and have a nice shower without disturbance,0.0519,0.0974,0.2948,0.3774,0.1784,3.533,2e_1
+Zenith Hotel Putrajaya,5 stars out of 5,"The view is very nice.
+Near Masjid Putra.
+Spacious & clean room.
+Comfortable bed & pillow.",Comfortable bed & pillow,0.0087,0.0156,0.1248,0.4456,0.4052,4.2229,4e
+Zenith Hotel Putrajaya,5 stars out of 5,"Staff yg sgt baik, ramah dan sentiasa membantu. Dr parking boleh terus ke bilik. Sgt safety. Masuk kereta guna tng. bilik yg sgt luas mmg berbaloi dgn harganya. Ade swimming pool. Dekat dgn masjid putra serta bazar ramadhan. Dah 2thn berturut2 di hotel ini.",Dr parking boleh terus ke bilik,0.0552,0.0767,0.2422,0.3511,0.2748,3.7137,4j
+Zenith Hotel Putrajaya,5 stars out of 5,Room is spacious. Looks clean but quite dusty. Water drain stuck. Shower room flood. Air cond not cold. Got maintenance guy to fix but still not cold.,Shower room flood,0.3265,0.2643,0.2103,0.1149,0.0841,2.3657,2e_1
+Zenith Hotel Putrajaya,5 stars out of 5,"all basic hotel things are good imo. they just need to check more on the cleanliness in the toilet (found a few strands of hair on the toilet floor) and the iron is not working well. the shower is confusing but thats probably just me being stupid. the breakfast is okay. basic. 
+
+overall im quite satisfied",the shower is confusing but thats probably just me being stupid,0.1477,0.3638,0.4082,0.0712,0.009,2.4299,2e_1
+Zenith Hotel Putrajaya,5 stars out of 5,"The hotel is not too packed and quite relaxing. However, the facilities are average, with the usual gym, swimming pool, sauna, and spa. That's all","However, the facilities are average, with the usual gym, swimming pool, sauna, and spa",0.0194,0.2215,0.6669,0.0869,0.0053,2.8372,6b_1
+Zenith Hotel Putrajaya,5 stars out of 5,The staff was quite helpful in troubleshooting some air conditioning issue late at night. The receptionist was really friendly.,The staff was quite helpful in troubleshooting some air conditioning issue late at night,0.0082,0.0316,0.2373,0.5787,0.1443,3.8192,4f
+Zenith Hotel Putrajaya,5 stars out of 5,"Had a short stay of one night due to an emergency situation at home. The accommodation itself was nice. No major issues except the provision for shower gel could have been better. One miserable tiny cheap bottle of shower gel did not cut it for a hotel with a nice view of the Putrajaya lake. The rickety chaise lounge needed some TLC too. But the biggest disappointment was the F & B. Food was terrible. Not tasty at all. But the restaurant had a very  nice view of the lake. This was a major let down. Imagine if you just want to enjoy the hotel and stay in or simply want to dine in. This is the place to avoid for the food. I ordered nasi goreng, alio oglio, seafood hor fun and chicken tenders with some chilli dip. Imagine - only the chicken tenders (which is finger food as straight from frozen packets) was OK. The chilli dip was good. That was it. The rest was tasteless and for that you need to pay close to RM450 for 4 pax meal. In my view, its not even worth RM50 of any customer's money. Thats an honest review. If the food improves by 200% or more, I would not repeat a stay. Even if I had to stay here, I will never set foot on the restaurant again. I really hope the restaurant improves so as not to let such a nice place go to waste.",No major issues except the provision for shower gel could have been better,0.0255,0.0984,0.4966,0.33,0.0495,3.2797,2e_1
+Zenith Hotel Putrajaya,5 stars out of 5,"Had a short stay of one night due to an emergency situation at home. The accommodation itself was nice. No major issues except the provision for shower gel could have been better. One miserable tiny cheap bottle of shower gel did not cut it for a hotel with a nice view of the Putrajaya lake. The rickety chaise lounge needed some TLC too. But the biggest disappointment was the F & B. Food was terrible. Not tasty at all. But the restaurant had a very  nice view of the lake. This was a major let down. Imagine if you just want to enjoy the hotel and stay in or simply want to dine in. This is the place to avoid for the food. I ordered nasi goreng, alio oglio, seafood hor fun and chicken tenders with some chilli dip. Imagine - only the chicken tenders (which is finger food as straight from frozen packets) was OK. The chilli dip was good. That was it. The rest was tasteless and for that you need to pay close to RM450 for 4 pax meal. In my view, its not even worth RM50 of any customer's money. Thats an honest review. If the food improves by 200% or more, I would not repeat a stay. Even if I had to stay here, I will never set foot on the restaurant again. I really hope the restaurant improves so as not to let such a nice place go to waste.",One miserable tiny cheap bottle of shower gel did not cut it for a hotel with a nice view of the Putrajaya lake,0.6076,0.3049,0.0731,0.0103,0.0041,1.4985,2e_1
+Zenith Hotel Putrajaya,5 stars out of 5,"I enjoyed my stay of 1 week. Good size room . Central location with great views of lake , bridge and mosque.","Central location with great views of lake , bridge and mosque",0.0083,0.0121,0.072,0.4095,0.498,4.3769,3d_2
+Zenith Hotel Putrajaya,5 stars out of 5,"Bilik penginapan sangat selesa dan lokasi hotel sangat strategik. Terletak tidak jauh drpd Masjid Putra dan beberapa premis kerajaan. 
+
+Staf Concierge sangat membantu dan memudahkan urusan pelanggan. Terima kasih banyak. Cuma staf reception tidak memberikan kerjasama walaupun selepas 2 kali telefon untuk dapatkan towel tambahan. Semasa telefon staf janji untuk maklumlan kpd staf berkaitan untuk hantar tapi sehingga kami check out towel masih tak diterima. 
+
+Secara keseluruhan sangat berbaloi & selesa menginap disini dan boleh dipertimbangkan untuk menginap lagi  .",Staf Concierge sangat membantu dan memudahkan urusan pelanggan,0.0063,0.0078,0.073,0.3921,0.5208,4.4132,4i
+Zenith Hotel Putrajaya,5 stars out of 5,"saya bermalam selama satu mlm shj,tgk review ada yg bagi 1 bintang ,pelik..bila saya sampai lokasi ok..parking ok,staf ok,bilik ok...cuma sedikit sahaja..carpet didalam bilik tak vacum..ada la kekotoran sedikit..itu shj..yg lain ok...","parking ok,staf ok,bilik ok",0.0099,0.0407,0.5009,0.3361,0.1124,3.5005,4j
+Zenith Hotel Putrajaya,5 stars out of 5,"Semua ok. Staff friendly no doubt. Cuma Maybe boleh upgrade on the parking charge. For those staying, just link the tng card with ..xtau la nk ckp sbb bukan bidang tp even dah proceed to counter utk waive the parking fee, but still kena byr. Just my 2cents 🙏🏻",Cuma Maybe boleh upgrade on the parking charge,0.1496,0.2305,0.3741,0.1846,0.0612,2.7772,4j
+Zenith Hotel Putrajaya,5 stars out of 5,"Semua ok. Staff friendly no doubt. Cuma Maybe boleh upgrade on the parking charge. For those staying, just link the tng card with ..xtau la nk ckp sbb bukan bidang tp even dah proceed to counter utk waive the parking fee, but still kena byr. Just my 2cents 🙏🏻","xtau la nk ckp sbb bukan bidang tp even dah proceed to counter utk waive the parking fee, but still kena byr",0.3685,0.2754,0.2534,0.0739,0.0288,2.1191,4j
+Zenith Hotel Putrajaya,5 stars out of 5,Our stay was fantastic with top-notch facilities and superb location near Putra Mosque. Staff were very helpful and friendly. Cleanliness was good overall and parking was convenient. Food served in sahur buffet was delicious. A highly recommended hotel for great holiday.,Cleanliness was good overall and parking was convenient,0.0029,0.0085,0.1701,0.6108,0.2076,4.0115,4j
+Zenith Hotel Putrajaya,5 stars out of 5,"Stayed for one night during Ramadan.  We got the lake view room and its really beautiful. I really love the room layout in which the sink is outside the shower, and the shower /bathtub is separated from the toilet. At least the parents won't need to hold it in when the kids bathe in the bathtub for too long!","I really love the room layout in which the sink is outside the shower, and the shower /bathtub is separated from the toilet",0.0022,0.005,0.036,0.4043,0.5526,4.5002,2e_1
+Zenith Hotel Putrajaya,5 stars out of 5,"This is our second time staying here for a short getaway.  Check in and check out process was very smooth, probably less guests stay during Ramadan. Last year we had to wait about 2hours for our rooms to be ready due to high demand.
+
+We love the spacious room and bathroom. The day and night view from the room is spectacular.  
+
+We came during Ramadan, so adults went for suhoor and kids go for the usual breakfast. Options for suhoor is less than what was served during breakfast. I think the spread should be the same for both as we are paying the same amount. Nonetheless, we are still satisfied with what we've paid for as the food was delicious and there were variety of options.
+
+My mother also tried their spa, and she enjoyed it as the therapist is well experienced.
+
+Overall, we recommend this place for those with young kids and senior citizens.","Overall, we recommend this place for those with young kids and senior citizens",0.0031,0.0073,0.1878,0.5871,0.2147,4.0029,7a
+Zenith Hotel Putrajaya,5 stars out of 5,"The property's central location made it easy to explore the area. The cleanliness of the rooms was top-notch, and the staff were incredibly friendly and helpful. The facilities were impressive, especially the tranquil garden and convenient parking. Overall, a wonderful stay with fantastic transport options and peaceful sleep quality.",The property's central location made it easy to explore the area,0.0137,0.0328,0.1943,0.4967,0.2625,3.9614,3d_2
+Zenith Hotel Putrajaya,5 stars out of 5,"The property's central location made it easy to explore the area. The cleanliness of the rooms was top-notch, and the staff were incredibly friendly and helpful. The facilities were impressive, especially the tranquil garden and convenient parking. Overall, a wonderful stay with fantastic transport options and peaceful sleep quality.","The facilities were impressive, especially the tranquil garden and convenient parking",0.0035,0.007,0.0536,0.408,0.5279,4.4498,4j
+Zenith Hotel Putrajaya,5 stars out of 5,"The property's central location made it easy to explore the area. The cleanliness of the rooms was top-notch, and the staff were incredibly friendly and helpful. The facilities were impressive, especially the tranquil garden and convenient parking. Overall, a wonderful stay with fantastic transport options and peaceful sleep quality.","Overall, a wonderful stay with fantastic transport options and peaceful sleep quality",0.0018,0.0022,0.0292,0.4042,0.5626,4.5235,3a_1
+Zenith Hotel Putrajaya,5 stars out of 5,"Zenith Hotel Putrajaya offers a comfortable and enjoyable staycation experience for families. The hotel has a warm and welcoming atmosphere, with friendly and attentive staff. They offer a variety of spacious and well-appointed rooms to suit families of all sizes. Dining options are plentiful, with choices suitable for children. The hotel is conveniently located near family-friendly attractions in Putrajaya. Amenities include a swimming pool, fitness center, and spa.","Amenities include a swimming pool, fitness center, and spa",0.0119,0.0184,0.1349,0.4693,0.3655,4.1581,6b_1
+Zenith Hotel Putrajaya,5 stars out of 5,"Layanan staf bagus, parking kereta luas dan memuaskan, bilik yang bersih dan sangat selesa, makanan pun best..","Layanan staf bagus, parking kereta luas dan memuaskan, bilik yang bersih dan sangat selesa, makanan pun best",0.003,0.0069,0.0727,0.3799,0.5375,4.442,4j
+Zenith Hotel Putrajaya,5 stars out of 5,"Everything about this hotel was great except on couple of things, they lacked cleanliness,  the bathroom seats were flimsy and the drain was clogged.  Parking space too was limited, so if you're driving to stay on weekends or during events you may struggle to find space to park your vehicle. 
+
+Otherwise, we had a fantastic view of the Putrajaya Masjid and the Prime Minister's Office building overlooking across the lake. They also had a reasonable breakfast buffet selection with a great ambience. 
+
+If they can improve on the cleanliness and housekeeping, they're good to go in my opinion.","Parking space too was limited, so if you're driving to stay on weekends or during events you may struggle to find space to park your vehicle",0.0861,0.2885,0.4516,0.1475,0.0263,2.7395,4j
+Zenith Hotel Putrajaya,5 stars out of 5,"When arrive we put down our lagguage and the bell boy collected our luggage. The as we park our car i was blocked by 4x4 as then parking access is tight, for us normal saloon car is just fine. Parking is cashless and free as we validate our card from front desk. The check in process is not coordinated properly as there is no queue system. Is like who come first then check in. Each room has bath tub. We were only allow 2 water bottles although there are 3 of us include our 11 yr old. The rooms and bed are all good and place quiet. We went for chinese restaurant for dinner and lunch. It was good but come with a price tag","The as we park our car i was blocked by 4x4 as then parking access is tight, for us normal saloon car is just fine",0.0555,0.1641,0.3866,0.2781,0.1157,3.2346,4j
+Zenith Hotel Putrajaya,5 stars out of 5,"When arrive we put down our lagguage and the bell boy collected our luggage. The as we park our car i was blocked by 4x4 as then parking access is tight, for us normal saloon car is just fine. Parking is cashless and free as we validate our card from front desk. The check in process is not coordinated properly as there is no queue system. Is like who come first then check in. Each room has bath tub. We were only allow 2 water bottles although there are 3 of us include our 11 yr old. The rooms and bed are all good and place quiet. We went for chinese restaurant for dinner and lunch. It was good but come with a price tag",Parking is cashless and free as we validate our card from front desk,0.0316,0.0305,0.1045,0.342,0.4913,4.231,4j
+Zenith Hotel Putrajaya,5 stars out of 5,Stayed for 3 days. Amazing service. Great breakfast with lots of food variety. Room is super clean. New sheets and condiments everyday unless you request to not clean the room. Bed is very comfy and soft. Parking is ready available and free for hotel guests. There a gym and spa and swimming pool. Very nice view of the lake from my room. Food is somewhat available but you have to drive out to find what you want. Pretty calm and chill place to stay. Would definitely recommend and repeat my stay in the future.,Parking is ready available and free for hotel guests,0.0061,0.0096,0.1065,0.4403,0.4375,4.2935,4j
+Zenith Hotel Putrajaya,5 stars out of 5,Stayed for 3 days. Amazing service. Great breakfast with lots of food variety. Room is super clean. New sheets and condiments everyday unless you request to not clean the room. Bed is very comfy and soft. Parking is ready available and free for hotel guests. There a gym and spa and swimming pool. Very nice view of the lake from my room. Food is somewhat available but you have to drive out to find what you want. Pretty calm and chill place to stay. Would definitely recommend and repeat my stay in the future.,There a gym and spa and swimming pool,0.0295,0.0415,0.1697,0.3988,0.3605,4.0192,6b_1
+Zenith Hotel Putrajaya,5 stars out of 5,Stayed for 3 days. Amazing service. Great breakfast with lots of food variety. Room is super clean. New sheets and condiments everyday unless you request to not clean the room. Bed is very comfy and soft. Parking is ready available and free for hotel guests. There a gym and spa and swimming pool. Very nice view of the lake from my room. Food is somewhat available but you have to drive out to find what you want. Pretty calm and chill place to stay. Would definitely recommend and repeat my stay in the future.,There a gym and spa and swimming pool,0.0295,0.0415,0.1697,0.3988,0.3605,4.0192,6d_1
+Zenith Hotel Putrajaya,5 stars out of 5,"I recently stayed at Zenith Putrajaya in a Deluxe King Room, and overall, my experience was a mix of positives and areas for improvement.
+
+Starting with the location, it’s fantastic. It’s right next to a water taxi stop, which makes for a lovely and convenient way to explore the area after breakfast. The ambiance and decor of the hotel are nice, and the room itself is fairly soundproof, which was a big plus for me. The bed and pillows were very comfortable, ensuring a good night's sleep.
+
+However, I was a bit disappointed with the cleanliness of the room. I noticed yellowish stains in the toilet, which seemed like they hadn't been scrubbed in a while. Additionally, there were hairs left by previous guests on the floor, and the furniture was quite dusty. For a hotel of this caliber, I was expecting better attention to detail in this area.
+
+The check-in and check-out process went smoothly, but the counter for check-in felt a bit cramped. There are four counters overall, so it didn’t take long, but it could be more spacious. Some of the staff were friendly, but others didn't provide the warmest service, which was a bit inconsistent.
+
+Parking is another thing to keep in mind. It was quite limited during my stay because there was a running event happening nearby. This made finding a parking spot a bit tricky, so I recommend arriving early if you're driving.
+
+As for the breakfast, the buffet was a bit underwhelming in terms of variety. The nasi lemak sambal, in particular, was quite disappointing. The overall selection was decent but not spectacular.
+
+Despite the cleanliness issues, limited parking, and some mixed staff interactions, I would still recommend this hotel due to its excellent location and comfortable room. With some improvements in cleanliness and service, it could easily be a top-tier option in the area.","It’s right next to a water taxi stop, which makes for a lovely and convenient way to explore the area after breakfast",0.0031,0.0058,0.0755,0.5181,0.3974,4.3009,3f
+Zenith Hotel Putrajaya,5 stars out of 5,"I recently stayed at Zenith Putrajaya in a Deluxe King Room, and overall, my experience was a mix of positives and areas for improvement.
+
+Starting with the location, it’s fantastic. It’s right next to a water taxi stop, which makes for a lovely and convenient way to explore the area after breakfast. The ambiance and decor of the hotel are nice, and the room itself is fairly soundproof, which was a big plus for me. The bed and pillows were very comfortable, ensuring a good night's sleep.
+
+However, I was a bit disappointed with the cleanliness of the room. I noticed yellowish stains in the toilet, which seemed like they hadn't been scrubbed in a while. Additionally, there were hairs left by previous guests on the floor, and the furniture was quite dusty. For a hotel of this caliber, I was expecting better attention to detail in this area.
+
+The check-in and check-out process went smoothly, but the counter for check-in felt a bit cramped. There are four counters overall, so it didn’t take long, but it could be more spacious. Some of the staff were friendly, but others didn't provide the warmest service, which was a bit inconsistent.
+
+Parking is another thing to keep in mind. It was quite limited during my stay because there was a running event happening nearby. This made finding a parking spot a bit tricky, so I recommend arriving early if you're driving.
+
+As for the breakfast, the buffet was a bit underwhelming in terms of variety. The nasi lemak sambal, in particular, was quite disappointing. The overall selection was decent but not spectacular.
+
+Despite the cleanliness issues, limited parking, and some mixed staff interactions, I would still recommend this hotel due to its excellent location and comfortable room. With some improvements in cleanliness and service, it could easily be a top-tier option in the area.",Parking is another thing to keep in mind,0.0218,0.0427,0.221,0.4164,0.2981,3.9262,4j
+Zenith Hotel Putrajaya,5 stars out of 5,"I recently stayed at Zenith Putrajaya in a Deluxe King Room, and overall, my experience was a mix of positives and areas for improvement.
+
+Starting with the location, it’s fantastic. It’s right next to a water taxi stop, which makes for a lovely and convenient way to explore the area after breakfast. The ambiance and decor of the hotel are nice, and the room itself is fairly soundproof, which was a big plus for me. The bed and pillows were very comfortable, ensuring a good night's sleep.
+
+However, I was a bit disappointed with the cleanliness of the room. I noticed yellowish stains in the toilet, which seemed like they hadn't been scrubbed in a while. Additionally, there were hairs left by previous guests on the floor, and the furniture was quite dusty. For a hotel of this caliber, I was expecting better attention to detail in this area.
+
+The check-in and check-out process went smoothly, but the counter for check-in felt a bit cramped. There are four counters overall, so it didn’t take long, but it could be more spacious. Some of the staff were friendly, but others didn't provide the warmest service, which was a bit inconsistent.
+
+Parking is another thing to keep in mind. It was quite limited during my stay because there was a running event happening nearby. This made finding a parking spot a bit tricky, so I recommend arriving early if you're driving.
+
+As for the breakfast, the buffet was a bit underwhelming in terms of variety. The nasi lemak sambal, in particular, was quite disappointing. The overall selection was decent but not spectacular.
+
+Despite the cleanliness issues, limited parking, and some mixed staff interactions, I would still recommend this hotel due to its excellent location and comfortable room. With some improvements in cleanliness and service, it could easily be a top-tier option in the area.","This made finding a parking spot a bit tricky, so I recommend arriving early if you're driving",0.004,0.0168,0.2281,0.5818,0.1692,3.8955,4j
+Zenith Hotel Putrajaya,5 stars out of 5,"Only when first check in, my daughter told me that the room is a little bit smells...but after we turn on the air conditioning that smell getting less",but after we turn on the air conditioning that smell getting less,0.0655,0.2735,0.5145,0.1284,0.0181,2.7601,4f
+Zenith Hotel Putrajaya,5 stars out of 5,Parking mudah. Bersih.,Parking mudah,0.033,0.0509,0.1714,0.3675,0.3772,4.005,4j
+Zenith Hotel Putrajaya,5 stars out of 5,"Great stay at Zenith. Room was clean and spacious, breakfast was wonderful and can enjoy the view while eating.  Checkin was quick, basement parking spaces are quite limited during peak seasons but valet is available.","Checkin was quick, basement parking spaces are quite limited during peak seasons but valet is available",0.0087,0.0477,0.3799,0.4768,0.0868,3.5852,4j
+Zenith Hotel Putrajaya,5 stars out of 5,"The registration process went smoothly. There weren't many people at the counter. By 2 p.m, we were able to enter the room. The room was spacious and comfortable. The pillow was also comfortable. The water pressure in the shower was strong. Other facilities were complete, though when we checked in, a spoon wasn’t provided. Everything else was okay. We had time for lunch at 'The Dining Room',  the seafood cheezy pizza and finger sandwiches were delicious. The view of the lake and mosque outside the window is very calming.",The pillow was also comfortable,0.0166,0.0397,0.1772,0.4458,0.3207,4.0146,4e
+Zenith Hotel Putrajaya,5 stars out of 5,"The registration process went smoothly. There weren't many people at the counter. By 2 p.m, we were able to enter the room. The room was spacious and comfortable. The pillow was also comfortable. The water pressure in the shower was strong. Other facilities were complete, though when we checked in, a spoon wasn’t provided. Everything else was okay. We had time for lunch at 'The Dining Room',  the seafood cheezy pizza and finger sandwiches were delicious. The view of the lake and mosque outside the window is very calming.",The water pressure in the shower was strong,0.0421,0.115,0.2925,0.3656,0.1848,3.5359,2e_1
+Zenith Hotel Putrajaya,5 stars out of 5,"Makanan sgt tidak memuaskan, boleh dikatakan tiada rasa.. dan harga sgt mahal... Staft tidak beri maklumat yg betul parking rm 23 burn... Pool yg kecil... Aircond kurang sejuk..",Staft tidak beri maklumat yg betul parking rm 23 burn,0.4846,0.2554,0.1829,0.0492,0.0278,1.8802,4j
+Sunway Putra Hotel Kuala Lumpur,5 stars out of 5,"Love the compliment cake given by the hotel. The staff was friendly. The breakfast need to be improve. Nevertherless, everything find for me. Will suggest the hotel for those love to go to PBAKL next time. Sastify with the parking.",Sastify with the parking,0.035,0.0495,0.1631,0.374,0.3785,4.0114,4j
+Sunway Putra Hotel Kuala Lumpur,5 stars out of 5,"I had a very pleasant experience at this hotel. It's conveniently connected to a mall, which made shopping and dining super easy. Parking was hassle-free with validation available on the day of stay. The staff were friendly and accommodating—they quickly helped me switch from a twin room to one with a king bed, which I really appreciated. Overall, a smooth and comfortable stay!",Parking was hassle-free with validation available on the day of stay,0.0608,0.0844,0.242,0.3922,0.2205,3.6274,4j
+Sunway Putra Hotel Kuala Lumpur,5 stars out of 5,"recommended room is so nice,tanamera shower gel is nice(reason why i came back),
+the breakfast is awesome","recommended room is so nice,tanamera shower gel is nice(reason why i came back),
+the breakfast is awesome",0.0063,0.0114,0.0717,0.4101,0.5005,4.3871,2e_1
+Sunway Putra Hotel Kuala Lumpur,5 stars out of 5,"Room is big but old - not renovated.
+Noisy in middle of night due to some air con or construction work.
+Breakfast is lousy.
+Shower gel bottle emptied for entire week.",Shower gel bottle emptied for entire week,0.1332,0.134,0.1861,0.2664,0.2803,3.4266,2e_1
+Sunway Putra Hotel Kuala Lumpur,5 stars out of 5,Swimming pool is small and gym is quite old.,Swimming pool is small and gym is quite old,0.0691,0.2835,0.4877,0.1362,0.0236,2.7618,6d_1
+Sunway Putra Hotel Kuala Lumpur,5 stars out of 5,"Conditions are getting worse.
+Noisy at night due to air con.
+Breakfast is lousy.
+Shower gel bottle emptied - asked to top up and never done for my entire week. Lucky I have own.
+Toilet paper finished and no spare. 
+I walked pass a room and saw a cleaner (man) using his face on a pillow! What is he trying to do??",Shower gel bottle emptied - asked to top up and never done for my entire week,0.5015,0.3254,0.1182,0.0301,0.0248,1.7513,2e_1
+Sunway Putra Hotel Kuala Lumpur,5 stars out of 5,"Conditions are getting worse.
+Noisy at night due to air con.
+Breakfast is lousy.
+Shower gel bottle emptied - asked to top up and never done for my entire week. Lucky I have own.
+Toilet paper finished and no spare. 
+I walked pass a room and saw a cleaner (man) using his face on a pillow! What is he trying to do??",I walked pass a room and saw a cleaner (man) using his face on a pillow,0.2943,0.2115,0.1743,0.1654,0.1545,2.6743,4e
+Sunway Putra Hotel Kuala Lumpur,5 stars out of 5,"Excellent staff, room and location. All the facilities is excellent. Only in the gym is good. Tqvm",Only in the gym is good,0.1051,0.2105,0.3997,0.2194,0.0653,2.9291,6d_1
+Sunway Putra Hotel Kuala Lumpur,5 stars out of 5,"The parking is at Level 6. 
+The food is just so so. Not worth of money. RM130 for 2 pax of breakfast. The window is not kedap bunyi. I was staying at Level 12. Very near the pool. So noisy. Cannot stay in calm. I rate 3/5 for the staycation. And 3/5 also for the food. The staff is helpful. Thanks",The parking is at Level 6,0.1464,0.1533,0.2545,0.242,0.2038,3.2033,4j
+Sunway Putra Hotel Kuala Lumpur,5 stars out of 5,"nice hotel keep repeat just for rest, but please dont put same level with foreign tourist , got disturb at night because they so noisy and play knock other guest door which is my room. thank you miss Rajati from reception help to change room immediately.  I pay hotel for rest value my money not for disturb by other foreign tourist like bimboo.  hope who receptionist will alert to arrange guest room. other than that all good, breakfast was so good!","nice hotel keep repeat just for rest, but please dont put same level with foreign tourist , got disturb at night because they so noisy and play knock other guest door which is my room",0.0437,0.133,0.4484,0.3263,0.0486,3.203,4a
+Sunway Putra Hotel Kuala Lumpur,5 stars out of 5,"The location is fantastic,the staff is so friendly. Overall a great choice for anyone looking for comfort and convenience.",Overall a great choice for anyone looking for comfort and convenience,0.0025,0.0042,0.0678,0.5391,0.3864,4.3027,3d_1
+Sunway Putra Hotel Kuala Lumpur,5 stars out of 5,"Parking super easy, have access to both mall and hotel from parking.
+Free Parking.
+Waiting time for lift also quick.
+Really Great breakfast.
+Room is very big.
+Toilet is clean and water is high pressure
+TV super big with youtube channel
+TV channel has many choices and in HD.
+Pool is big with free towels.
+Top notch from 5 star hotels.
+Recommended to all","Parking super easy, have access to both mall and hotel from parking",0.0037,0.0049,0.0277,0.2852,0.6784,4.6296,4j
+Sunway Putra Hotel Kuala Lumpur,5 stars out of 5,"Parking super easy, have access to both mall and hotel from parking.
+Free Parking.
+Waiting time for lift also quick.
+Really Great breakfast.
+Room is very big.
+Toilet is clean and water is high pressure
+TV super big with youtube channel
+TV channel has many choices and in HD.
+Pool is big with free towels.
+Top notch from 5 star hotels.
+Recommended to all",Free Parking,0.0483,0.0461,0.1567,0.3755,0.3734,3.9797,4j
+Sunway Putra Hotel Kuala Lumpur,5 stars out of 5,"Exceptionally located within accessible facilities such as shopping areas, parking as well as  LRT station. The staff were friendly and quick to respond to any issues raised during my stay.","Exceptionally located within accessible facilities such as shopping areas, parking as well as  LRT station",0.0021,0.0021,0.0093,0.1327,0.8537,4.8338,4j
+Sunway Putra Hotel Kuala Lumpur,5 stars out of 5,"Very friendly staff, central location & easy excess to all areas conveniently. Thanks","Very friendly staff, central location & easy excess to all areas conveniently",0.0019,0.0032,0.0338,0.4501,0.511,4.4652,3d_2
+Sunway Putra Hotel Kuala Lumpur,5 stars out of 5,"A very comfortable, spacious, and clean room, but the bathroom under the sink is clogged. The hotel is very close to the LRT, making it easy to get around. The parking area is also large and convenient.",The parking area is also large and convenient,0.0048,0.0126,0.0947,0.4554,0.4324,4.298,4j
+Sunway Putra Hotel Kuala Lumpur,5 stars out of 5,"We book and  stayed at Premier Suite for 2D1night...The impression was good and the ultimate part is when we can do shopping at anytime,due to this hotel is connected with Sunway Putra Mall...Just a few steps only...
+Overall service is Good...",Just a few steps only,0.1821,0.358,0.3303,0.0971,0.0325,2.4398,2a_1
+Sunway Putra Hotel Kuala Lumpur,5 stars out of 5,"Had a wonderful short stay with senior citizen parents and children. Customer service was excellent with staff always polite and helpful. We were also given upgraded rooms when checking in , and were so pleasantly surprised and grateful, as it made the stay even more comfortable for my 80 plus yr old parents n children. Hotel also had direct access into the malls, which made it convenient for meals and shopping. Love it. tqsm",Had a wonderful short stay with senior citizen parents and children,0.0157,0.0165,0.0703,0.316,0.5817,4.4316,7a
+Sunway Putra Hotel Kuala Lumpur,5 stars out of 5,"Experience refined comfort and contemporary luxury at Sunway Putra Hotel, ideally situated beside the iconic Sunway Putra Mall in the heart of Kuala Lumpur. This upscale urban retreat places you steps away from premier shopping, exquisite dining, and vibrant city life.
+
+Each room is elegantly designed, featuring plush bedding, sophisticated lighting, and thoughtful amenities to ensure a stay marked by comfort and style. Whether you’re here for business or leisure, you’ll appreciate the seamless blend of convenience and indulgence.
+
+With direct access to the mall, a variety of restaurants, cafés, and family-friendly attractions, Sunway Putra Hotel caters to all—from corporate guests to solo explorers and families alike. It's also a perfect place to simply relax, unwind, and enjoy moments of serenity amid the city's energy.","This upscale urban retreat places you steps away from premier shopping, exquisite dining, and vibrant city life",0.0031,0.004,0.0238,0.2487,0.7204,4.6794,2a_1
+Sunway Putra Hotel Kuala Lumpur,5 stars out of 5,"Experience refined comfort and contemporary luxury at Sunway Putra Hotel, ideally situated beside the iconic Sunway Putra Mall in the heart of Kuala Lumpur. This upscale urban retreat places you steps away from premier shopping, exquisite dining, and vibrant city life.
+
+Each room is elegantly designed, featuring plush bedding, sophisticated lighting, and thoughtful amenities to ensure a stay marked by comfort and style. Whether you’re here for business or leisure, you’ll appreciate the seamless blend of convenience and indulgence.
+
+With direct access to the mall, a variety of restaurants, cafés, and family-friendly attractions, Sunway Putra Hotel caters to all—from corporate guests to solo explorers and families alike. It's also a perfect place to simply relax, unwind, and enjoy moments of serenity amid the city's energy.","Whether you’re here for business or leisure, you’ll appreciate the seamless blend of convenience and indulgence",0.0171,0.0541,0.3009,0.4269,0.2011,3.7407,3d_1
+Sunway Putra Hotel Kuala Lumpur,5 stars out of 5,"I recently stayed at Hotel Sunway Putra for 2 days and it was an amazing experience. Parking was adequate and it was free for hotel guests. The check in process was smooth. The hotel personnel are generally friendly and helpful. 
+
+The room was clean, spacious and a comfortable bed with excellent amenities was provided.
+
+The hotel is connected to Sunway Putra Mall, making it incredibly convenient for shopping and dining. There is a LRT station right beside the hotel, making it easier for guests to get around the city.
+
+Overall, i highly recommend Hotel Sunway Putra for its spacious rooms, prime location and excellent hospitality. I would definitely stay here again!",Parking was adequate and it was free for hotel guests,0.0082,0.0234,0.2261,0.4829,0.2594,3.962,4j
+Sunway Putra Hotel Kuala Lumpur,5 stars out of 5,"easy access to mall, public transport and pwtc.. hotel parking free! friendly staffs everything okay 👍🏻",hotel parking free,0.0434,0.0512,0.2069,0.3833,0.3152,3.8757,4j
+Sunway Putra Hotel Kuala Lumpur,5 stars out of 5,"If you don't mind with the hotel room with older renovation, overall this is a value hotel to be stayed.","If you don't mind with the hotel room with older renovation, overall this is a value hotel to be stayed",0.0086,0.0211,0.1614,0.5077,0.3013,4.072,7a
+Sunway Putra Hotel Kuala Lumpur,5 stars out of 5,"Stay sini untuk convocation kat PWTC. Overall memang puas hati start dari masuk parking , check in process, breakfast n room facility. Recommended to stay.","Overall memang puas hati start dari masuk parking , check in process, breakfast n room facility",0.1152,0.2551,0.3799,0.1922,0.0575,2.8216,4j
+Sunway Putra Hotel Kuala Lumpur,5 stars out of 5,Great shower pressure! Love the bed and pillows and the aircon worked very well. Night duty manager attended to complaint with professionalism and cheerful attitude.,Great shower pressure,0.0059,0.0068,0.0334,0.2587,0.6952,4.6308,2e_1
+Sunway Putra Hotel Kuala Lumpur,5 stars out of 5,I spent 2 nights at the hotel and everything has been above my expectation.  Very clean and conviniently attached to a Sunway Putra Mall. Ample parking and safe. Worth the money and will visit again.,Ample parking and safe,0.004,0.0056,0.0362,0.3114,0.6428,4.5834,4j
+Sunway Putra Hotel Kuala Lumpur,5 stars out of 5,Convenient & near to public transport. Free parking.,Free parking,0.0483,0.0461,0.1567,0.3755,0.3734,3.9797,4j
+Sunway Putra Hotel Kuala Lumpur,5 stars out of 5,"LOCATION: A hotel in a mall (Sunway Putra Mall, with a few cafes open as early as 8:30 & 9am ) & LRT station (PWTC station) next to it.
+ROOM: Clean, big & really comfortable. Reception was kind enough to give free upgrade to a bigger room.
+PARKING: Available in the upper floors, and free when you register your car plate number.
+STAFFS: Friendly, kind & very helpful when my room door knob was found faulty.
+FACILITIES: Great, but I wish there were some chairs besides the telephone desks in front of elevators.
+OVERALL: Sure one of the best place to stay when visiting KL. When Matta fair 2025 provide free shuttle bus from this place to Mitac, what else can you ask for..... Hope KL Book Fair next month at the nearby PWTC will do the same.","FACILITIES: Great, but I wish there were some chairs besides the telephone desks in front of elevators",0.0063,0.0342,0.3473,0.5507,0.0615,3.6268,2g_1
+Sunway Putra Hotel Kuala Lumpur,5 stars out of 5,"LOCATION: A hotel in a mall (Sunway Putra Mall, with a few cafes open as early as 8:30 & 9am ) & LRT station (PWTC station) next to it.
+ROOM: Clean, big & really comfortable. Reception was kind enough to give free upgrade to a bigger room.
+PARKING: Available in the upper floors, and free when you register your car plate number.
+STAFFS: Friendly, kind & very helpful when my room door knob was found faulty.
+FACILITIES: Great, but I wish there were some chairs besides the telephone desks in front of elevators.
+OVERALL: Sure one of the best place to stay when visiting KL. When Matta fair 2025 provide free shuttle bus from this place to Mitac, what else can you ask for..... Hope KL Book Fair next month at the nearby PWTC will do the same.","When Matta fair 2025 provide free shuttle bus from this place to Mitac, what else can you ask for",0.0717,0.064,0.1642,0.2828,0.4172,3.9098,3c
+Sunway Putra Hotel Kuala Lumpur,5 stars out of 5,I’m happy. The parking facility available for guest,The parking facility available for guest,0.0152,0.0272,0.1781,0.4615,0.318,4.0401,4j
+Sunway Putra Hotel Kuala Lumpur,5 stars out of 5,"With the newly refurbished ambience, the standard has become extraordinarily better than expected. Everything is very convenient, especially for tourists who prefer having everything under one roof—good food, shopping, entertainment, relaxation, pool, and gym. Choose the deluxe type for a more spacious room!","Everything is very convenient, especially for tourists who prefer having everything under one roof—good food, shopping, entertainment, relaxation, pool, and gym",0.0025,0.0066,0.0768,0.5306,0.3835,4.2858,6d_1
+Sunway Putra Hotel Kuala Lumpur,5 stars out of 5,"I stayed at Sunway Putra Hotel from 4-6 Apr 2025. The hotel is strategically connected with the PWTC LRT station which brings you easily to Bukit Jalil for concerts or to the Bukit Bintang area easily.  It’s also linked to the Sunway Putra Mall.
+
+The facilities were great, liked the rain shower too. However, the shower hole cannot drained the water well and get flooded easily. 
+
+Buffet was on point given the varieties it provided. In room dining is acceptable as well.
+
+Worth a second visit I feel.","The facilities were great, liked the rain shower too",0.0047,0.0103,0.0789,0.4038,0.5022,4.3886,2e_1
+Sunway Putra Hotel Kuala Lumpur,5 stars out of 5,"I stayed at Sunway Putra Hotel from 4-6 Apr 2025. The hotel is strategically connected with the PWTC LRT station which brings you easily to Bukit Jalil for concerts or to the Bukit Bintang area easily.  It’s also linked to the Sunway Putra Mall.
+
+The facilities were great, liked the rain shower too. However, the shower hole cannot drained the water well and get flooded easily. 
+
+Buffet was on point given the varieties it provided. In room dining is acceptable as well.
+
+Worth a second visit I feel.","However, the shower hole cannot drained the water well and get flooded easily",0.0657,0.3702,0.479,0.0779,0.0071,2.5905,2e_1
+Sunway Putra Hotel Kuala Lumpur,5 stars out of 5,"My sister and I went here for a short escape. It is accessible via LRT and if you are driving they also provide free parking. Mall is only located at below floor and lots of good restaurants located here and ease us to go shopping. Location is near the KL town, we took a grab to Bukit Bintang and only cost us less than rm15 per trip. Breakfast has a good spread and cost rm75 for additional pax. I love their overnight oats and bread. 🥖 I am lucky my room has a KLCC and KL tower view. The room is clean and quite big.",It is accessible via LRT and if you are driving they also provide free parking,0.0075,0.0105,0.0893,0.4129,0.4798,4.3469,4j
+Sunway Putra Hotel Kuala Lumpur,5 stars out of 5,"No vegetarian food option at all and they are not ready provide more option with the internal chef as well. There was no hot water one day, power outage one day and they are saying no hot water due to some problem, that's it no solution. The staff does not have info about their own hotel Pool timings, mall and LRT entrance timings etc.",No vegetarian food option at all and they are not ready provide more option with the internal chef as well,0.4745,0.3671,0.1399,0.0146,0.004,1.7065,5a_1
+Sunway Putra Hotel Kuala Lumpur,5 stars out of 5,"No words can describe how great this hotel is. Everything is perfect. Even the dinner buffet is a chef's kiss.
+
+The bestest thing about this hotel is that parking is free and it's attached to Sunway Putra mall, which is a cool mall that isn't that crowded.
+
+I highly recommend people to stay at this hotel. 
+
+10/10!","The bestest thing about this hotel is that parking is free and it's attached to Sunway Putra mall, which is a cool mall that isn't that crowded",0.014,0.0225,0.0737,0.3473,0.5426,4.382,4j
+Sunway Putra Hotel Kuala Lumpur,5 stars out of 5,"Parking was adequate, you could always drive to the higher floors and there should be available lots there. Driving to the parking area is via a long spiral ramp which needs patience and focus but it is not exactly something to complain about. The parking system is great where the hotel personnel will update their records for a free and easy parking experience.
+
+Hotel personnel are generally friendly and nice, service is good from front desk as well as housekeeping. Even though security guards look strict and a little unwelcoming (stood and stared at customers at the breakfast area) but it's not a big issue, they are probably just doing their jobs.
+
+The hotel is connected to a mall which makes it very convenient for activities and some entertainment.
+
+The swimming pool is nice, clean and fairly big. The gym was also good with a fair amount of equipment for various types of exercises. Towels and drinking water (dispenser) are provided. Accessing these facilities is also quite seamless. We were provided with two access cards (on top of a card already in the room for power) which makes it extremely convenient for both myself and my wife.
+
+The room, toilet and bathroom are a tad old but still decently clean. The bathtub is less ideal, a little dirty and damaged, probably from wear and tear. But, still, not a big negative, still happy with it overall.
+
+All in all, it was a pleasant stay and will definitely revisit if going to town.","Parking was adequate, you could always drive to the higher floors and there should be available lots there",0.0119,0.0586,0.3837,0.4185,0.1273,3.5906,4j
+Sunway Putra Hotel Kuala Lumpur,5 stars out of 5,"Parking was adequate, you could always drive to the higher floors and there should be available lots there. Driving to the parking area is via a long spiral ramp which needs patience and focus but it is not exactly something to complain about. The parking system is great where the hotel personnel will update their records for a free and easy parking experience.
+
+Hotel personnel are generally friendly and nice, service is good from front desk as well as housekeeping. Even though security guards look strict and a little unwelcoming (stood and stared at customers at the breakfast area) but it's not a big issue, they are probably just doing their jobs.
+
+The hotel is connected to a mall which makes it very convenient for activities and some entertainment.
+
+The swimming pool is nice, clean and fairly big. The gym was also good with a fair amount of equipment for various types of exercises. Towels and drinking water (dispenser) are provided. Accessing these facilities is also quite seamless. We were provided with two access cards (on top of a card already in the room for power) which makes it extremely convenient for both myself and my wife.
+
+The room, toilet and bathroom are a tad old but still decently clean. The bathtub is less ideal, a little dirty and damaged, probably from wear and tear. But, still, not a big negative, still happy with it overall.
+
+All in all, it was a pleasant stay and will definitely revisit if going to town.",Driving to the parking area is via a long spiral ramp which needs patience and focus but it is not exactly something to complain about,0.0275,0.1506,0.5442,0.2509,0.0267,3.0987,4j
+Sunway Putra Hotel Kuala Lumpur,5 stars out of 5,"Parking was adequate, you could always drive to the higher floors and there should be available lots there. Driving to the parking area is via a long spiral ramp which needs patience and focus but it is not exactly something to complain about. The parking system is great where the hotel personnel will update their records for a free and easy parking experience.
+
+Hotel personnel are generally friendly and nice, service is good from front desk as well as housekeeping. Even though security guards look strict and a little unwelcoming (stood and stared at customers at the breakfast area) but it's not a big issue, they are probably just doing their jobs.
+
+The hotel is connected to a mall which makes it very convenient for activities and some entertainment.
+
+The swimming pool is nice, clean and fairly big. The gym was also good with a fair amount of equipment for various types of exercises. Towels and drinking water (dispenser) are provided. Accessing these facilities is also quite seamless. We were provided with two access cards (on top of a card already in the room for power) which makes it extremely convenient for both myself and my wife.
+
+The room, toilet and bathroom are a tad old but still decently clean. The bathtub is less ideal, a little dirty and damaged, probably from wear and tear. But, still, not a big negative, still happy with it overall.
+
+All in all, it was a pleasant stay and will definitely revisit if going to town.",Driving to the parking area is via a long spiral ramp which needs patience and focus but it is not exactly something to complain about,0.0275,0.1506,0.5442,0.2509,0.0267,3.0987,2b_1
+Sunway Putra Hotel Kuala Lumpur,5 stars out of 5,"Parking was adequate, you could always drive to the higher floors and there should be available lots there. Driving to the parking area is via a long spiral ramp which needs patience and focus but it is not exactly something to complain about. The parking system is great where the hotel personnel will update their records for a free and easy parking experience.
+
+Hotel personnel are generally friendly and nice, service is good from front desk as well as housekeeping. Even though security guards look strict and a little unwelcoming (stood and stared at customers at the breakfast area) but it's not a big issue, they are probably just doing their jobs.
+
+The hotel is connected to a mall which makes it very convenient for activities and some entertainment.
+
+The swimming pool is nice, clean and fairly big. The gym was also good with a fair amount of equipment for various types of exercises. Towels and drinking water (dispenser) are provided. Accessing these facilities is also quite seamless. We were provided with two access cards (on top of a card already in the room for power) which makes it extremely convenient for both myself and my wife.
+
+The room, toilet and bathroom are a tad old but still decently clean. The bathtub is less ideal, a little dirty and damaged, probably from wear and tear. But, still, not a big negative, still happy with it overall.
+
+All in all, it was a pleasant stay and will definitely revisit if going to town.",The parking system is great where the hotel personnel will update their records for a free and easy parking experience,0.0032,0.0049,0.0417,0.3715,0.5788,4.5179,4j
+Sunway Putra Hotel Kuala Lumpur,5 stars out of 5,"Parking was adequate, you could always drive to the higher floors and there should be available lots there. Driving to the parking area is via a long spiral ramp which needs patience and focus but it is not exactly something to complain about. The parking system is great where the hotel personnel will update their records for a free and easy parking experience.
+
+Hotel personnel are generally friendly and nice, service is good from front desk as well as housekeeping. Even though security guards look strict and a little unwelcoming (stood and stared at customers at the breakfast area) but it's not a big issue, they are probably just doing their jobs.
+
+The hotel is connected to a mall which makes it very convenient for activities and some entertainment.
+
+The swimming pool is nice, clean and fairly big. The gym was also good with a fair amount of equipment for various types of exercises. Towels and drinking water (dispenser) are provided. Accessing these facilities is also quite seamless. We were provided with two access cards (on top of a card already in the room for power) which makes it extremely convenient for both myself and my wife.
+
+The room, toilet and bathroom are a tad old but still decently clean. The bathtub is less ideal, a little dirty and damaged, probably from wear and tear. But, still, not a big negative, still happy with it overall.
+
+All in all, it was a pleasant stay and will definitely revisit if going to town.",The gym was also good with a fair amount of equipment for various types of exercises,0.004,0.0105,0.1552,0.5774,0.2528,4.0644,6d_1
+Sunway Putra Hotel Kuala Lumpur,5 stars out of 5,"Sunway Putra Hotel combines prime location, elegant design, exceptional comfort, immaculate cleanliness, and outstanding service. Since 2015, I, Bashir Hassan Ahmed, have enjoyed its consistent excellence, with special recognition to Mr. Zaf for his warm hospitality. A perfect choice for luxury and convenience in Kuala Lumpur!",A perfect choice for luxury and convenience in Kuala Lumpur,0.0027,0.0028,0.0161,0.1917,0.7866,4.7566,3d_1
+Sunway Putra Hotel Kuala Lumpur,5 stars out of 5,"Well this time again , there are few people because of whom we are always feel welcomed , they are very friendly and always ready to help  , I want to credit them for there hospitality .
+As usual due to our flight timing is early morning,  me and wife reached at 9am from KLIA 1 . Ms. Shanti was there to accommodate us with early Check inn , She is my No. 1 person I always look for , always helpful and very courteous and smiling . 
+Then there is Mr. Shahrul Shervin Manager Concierge , he is the most big hearted,  always smiling and any sort of  help you need , he can get it done for you . 
+I always look forward to meeting them on my visits to Sunway Putra Hotel.  
+Your Hotel have such Gems , which makes our stay memorable and comfortable.","Shahrul Shervin Manager Concierge , he is the most big hearted,  always smiling and any sort of  help you need , he can get it done for you",0.0073,0.0094,0.0436,0.2801,0.6595,4.5751,4i
+Sunway Putra Hotel Kuala Lumpur,5 stars out of 5,"Pleasant stay in the hotel. It is the same building with big mall and we could enjoy foods in the restaurents and shopping without worrying travel time and taxi challenges to the shopping malls. Besides, it locates in the city center and we could visit twin tower, KL tower and Chinatown easily.  Strong recommended for the family with kids and big groups.",It is the same building with big mall and we could enjoy foods in the restaurents and shopping without worrying travel time and taxi challenges to the shopping malls,0.0142,0.0334,0.1389,0.434,0.3795,4.1312,3f
+Sunway Putra Hotel Kuala Lumpur,5 stars out of 5,"My stay at this hotel was very comfortable! The room was clean, the staff was friendly, and the sahur was delicious. The water pressure good for bathroom. Sunway mall in same building. Easy to find restaurant. Easy parking and free for hotel. Will come again! Hopefully always give discounts in agoda.",Easy parking and free for hotel,0.005,0.0073,0.0615,0.4021,0.5241,4.4331,4j
+Sunway Putra Hotel Kuala Lumpur,5 stars out of 5,"Our family had a fantastic stay at this hotel. The location was fantastic and there are lots of shopping options near by. Front office staffs both Ms. Rajathi, Ms. Shanti’s guest handling was commendable. The concierge services were very good too. The people at the concierge desk were very informative and helpful. Overall an excellent place to stay for vacations.",The concierge services were very good too,0.008,0.0192,0.1285,0.4777,0.3666,4.1757,4i
+Sunway Putra Hotel Kuala Lumpur,5 stars out of 5,"Our family had a fantastic stay at this hotel. The location was fantastic and there are lots of shopping options near by. Front office staffs both Ms. Rajathi, Ms. Shanti’s guest handling was commendable. The concierge services were very good too. The people at the concierge desk were very informative and helpful. Overall an excellent place to stay for vacations.",The people at the concierge desk were very informative and helpful,0.0057,0.0103,0.0783,0.4634,0.4424,4.3266,4i
+Sunway Putra Hotel Kuala Lumpur,5 stars out of 5,"The staff leave a lot to be desired. My booking on Agoda said it included all taxes and fees, however the reception staff demand further tax upon check in. 
+Also, I don't believe I got any sleep at all last night. I had 2 extremely noisy families in the adjacent rooms, and it was so noisy it was as if they were in the same room. Also had people shouting in the corridors too at all hours. 
+One of the most frustrating aspects of my stay. I paid extra upon check in to have a late check out. I specifically requested that I wasn't disturbed as I have a 15 hour flight later.... 3 times today housekeeping have rung my bell or banged on my door. 3 times! How is that good enough? I'm so tired.","I had 2 extremely noisy families in the adjacent rooms, and it was so noisy it was as if they were in the same room",0.4084,0.4463,0.132,0.0105,0.0029,1.753,4a
+Sunway Putra Hotel Kuala Lumpur,5 stars out of 5,"Semua terbaik, makanan semua sedap ( buffet puasa).. staff terbaik, free parking ..  bersambung dengan shopping mall ..dekat dgn lrt","staff terbaik, free parking",0.0036,0.0038,0.016,0.1362,0.8404,4.8059,4j
+Sunway Putra Hotel Kuala Lumpur,5 stars out of 5,"Very convinience place to stay.Connected to Sunway Mall.
+Parking also easily available.
+The breakfast is superb.",Parking also easily available,0.0149,0.0213,0.0924,0.3729,0.4986,4.3188,4j
+Sunway Putra Hotel Kuala Lumpur,5 stars out of 5,"Rain shower head broken. Please consider to repair or change.
+There was no face towel provided. I needed to use my own face towel which was quite disappointed.",Rain shower head broken,0.5195,0.3303,0.1279,0.0167,0.0056,1.6585,2e_1
+Sunway Putra Hotel Kuala Lumpur,5 stars out of 5,convenience and near to many places in KL,convenience and near to many places in KL,0.0053,0.0124,0.1056,0.4632,0.4136,4.2674,3d_1
+Seri Pacific Hotel Kuala Lumpur,5 stars out of 5,"Good and decent stay. 
+
+The fitness center with the sauna & charging area attached need to be refurbished/ upgraded and to ensure those facilities in the fitness center are always functional or turn on. 
+Has been informed the fitness operation hours till 11pm so try to have gym session after works ard 10 but was found the center was closed. Management should consider to put the fitness center opens 24 hours ( like most of the luxury hotels to cater all guests with different working out schedules) or to extend its operation times. 
+May consider to provide hand or face towels in the room.",Has been informed the fitness operation hours till 11pm so try to have gym session after works ard 10 but was found the center was closed,0.2548,0.2847,0.3007,0.124,0.0357,2.4011,6d_1
+Seri Pacific Hotel Kuala Lumpur,5 stars out of 5,"The Hotel is a little bit old, but it's still considered well maintained. The only problem is one of the downlight in the shower room is not working. With the  price, it's value for money.",The only problem is one of the downlight in the shower room is not working,0.1096,0.2326,0.3835,0.248,0.0263,2.8488,2e_1
+Seri Pacific Hotel Kuala Lumpur,5 stars out of 5,Good location. Fast check in.  Room is clean. Friendly staffs. Accessible to mall. The only problem is limited parking.,The only problem is limited parking,0.0473,0.0927,0.3057,0.4568,0.0974,3.4643,4j
+Seri Pacific Hotel Kuala Lumpur,5 stars out of 5,"Everything is good, just the parking lot very limited","Everything is good, just the parking lot very limited",0.0469,0.1472,0.5065,0.2515,0.0479,3.1064,4j
+Seri Pacific Hotel Kuala Lumpur,5 stars out of 5,"I had a disappointing experience staying at Seri Pacific Hotel. The property is visibly run-down and poorly maintained. Although there are five lifts, only three were operational during my stay. Due to the outdated lift system, only one elevator can move either up or down at a time, causing long waits and large crowds, especially during peak hours.
+
+Parking is also inconvenient. The hotel offers only a single level of parking, which is typically full. Guests are usually directed to park at the PWTC carpark, where ticket validation is provided at RM5 per entry.
+
+Upon entering my room, I was shocked to find a large black lizard on the floor—an unpleasant and unhygienic welcome. The bathtub was leaking and could not be filled properly. Housekeeping services are also disappointing: requesting a fresh towel incurs a RM20 charge, and the room comes with only two 500ml bottles of water. Additional water is charged at RM5 per bottle, with no water dispenser available, so I recommend purchasing bottled water from the nearby Sunway Putra Mall for better value. The phone is not working. You need to scan the QR code to reach out the customer service operator. The house keeping took 1.5 hours to deliver the fresh towels and water, despite numerous reminders. 
+
+The breakfast buffet is average at best—filling, but none of the dishes stood out in taste or quality.
+
+Overall, this hotel is not ideal for a staycation or business trip. There are no scenic views, the swimming pool is not well maintained, the rooms are not clean, and the elevator system is severely flawed. Additionally, the surroundinge area feels unsafe, with a visible presence of vagrants and loiterers. Sadly, there’s nothing memorable or special about this hotel.","Due to the outdated lift system, only one elevator can move either up or down at a time, causing long waits and large crowds, especially during peak hours",0.1244,0.2882,0.3076,0.1904,0.0893,2.8321,2g_1
+Seri Pacific Hotel Kuala Lumpur,5 stars out of 5,"I had a disappointing experience staying at Seri Pacific Hotel. The property is visibly run-down and poorly maintained. Although there are five lifts, only three were operational during my stay. Due to the outdated lift system, only one elevator can move either up or down at a time, causing long waits and large crowds, especially during peak hours.
+
+Parking is also inconvenient. The hotel offers only a single level of parking, which is typically full. Guests are usually directed to park at the PWTC carpark, where ticket validation is provided at RM5 per entry.
+
+Upon entering my room, I was shocked to find a large black lizard on the floor—an unpleasant and unhygienic welcome. The bathtub was leaking and could not be filled properly. Housekeeping services are also disappointing: requesting a fresh towel incurs a RM20 charge, and the room comes with only two 500ml bottles of water. Additional water is charged at RM5 per bottle, with no water dispenser available, so I recommend purchasing bottled water from the nearby Sunway Putra Mall for better value. The phone is not working. You need to scan the QR code to reach out the customer service operator. The house keeping took 1.5 hours to deliver the fresh towels and water, despite numerous reminders. 
+
+The breakfast buffet is average at best—filling, but none of the dishes stood out in taste or quality.
+
+Overall, this hotel is not ideal for a staycation or business trip. There are no scenic views, the swimming pool is not well maintained, the rooms are not clean, and the elevator system is severely flawed. Additionally, the surroundinge area feels unsafe, with a visible presence of vagrants and loiterers. Sadly, there’s nothing memorable or special about this hotel.",Parking is also inconvenient,0.2558,0.3783,0.3082,0.0475,0.0103,2.1782,4j
+Seri Pacific Hotel Kuala Lumpur,5 stars out of 5,"I had a disappointing experience staying at Seri Pacific Hotel. The property is visibly run-down and poorly maintained. Although there are five lifts, only three were operational during my stay. Due to the outdated lift system, only one elevator can move either up or down at a time, causing long waits and large crowds, especially during peak hours.
+
+Parking is also inconvenient. The hotel offers only a single level of parking, which is typically full. Guests are usually directed to park at the PWTC carpark, where ticket validation is provided at RM5 per entry.
+
+Upon entering my room, I was shocked to find a large black lizard on the floor—an unpleasant and unhygienic welcome. The bathtub was leaking and could not be filled properly. Housekeeping services are also disappointing: requesting a fresh towel incurs a RM20 charge, and the room comes with only two 500ml bottles of water. Additional water is charged at RM5 per bottle, with no water dispenser available, so I recommend purchasing bottled water from the nearby Sunway Putra Mall for better value. The phone is not working. You need to scan the QR code to reach out the customer service operator. The house keeping took 1.5 hours to deliver the fresh towels and water, despite numerous reminders. 
+
+The breakfast buffet is average at best—filling, but none of the dishes stood out in taste or quality.
+
+Overall, this hotel is not ideal for a staycation or business trip. There are no scenic views, the swimming pool is not well maintained, the rooms are not clean, and the elevator system is severely flawed. Additionally, the surroundinge area feels unsafe, with a visible presence of vagrants and loiterers. Sadly, there’s nothing memorable or special about this hotel.","There are no scenic views, the swimming pool is not well maintained, the rooms are not clean, and the elevator system is severely flawed",0.364,0.5405,0.092,0.0031,0.0004,1.7354,2g_1
+Seri Pacific Hotel Kuala Lumpur,5 stars out of 5,"Parking was terrible. No space at all. No guidance and service from staff at the pwtc parking. Got charge rm36 bcs i did not take the parking ticket there. Told the staff, but they said it was my ‘mistake’ for not asking them first when there were supposed to be notice or any reminder down there. The guard whom lead us there also did not said anything about ticket.",Parking was terrible,0.7214,0.2164,0.0492,0.0079,0.0051,1.3589,4j
+Seri Pacific Hotel Kuala Lumpur,5 stars out of 5,"Parking was terrible. No space at all. No guidance and service from staff at the pwtc parking. Got charge rm36 bcs i did not take the parking ticket there. Told the staff, but they said it was my ‘mistake’ for not asking them first when there were supposed to be notice or any reminder down there. The guard whom lead us there also did not said anything about ticket.",No guidance and service from staff at the pwtc parking,0.5506,0.3103,0.1156,0.0169,0.0066,1.6185,4j
+Seri Pacific Hotel Kuala Lumpur,5 stars out of 5,"Parking was terrible. No space at all. No guidance and service from staff at the pwtc parking. Got charge rm36 bcs i did not take the parking ticket there. Told the staff, but they said it was my ‘mistake’ for not asking them first when there were supposed to be notice or any reminder down there. The guard whom lead us there also did not said anything about ticket.",Got charge rm36 bcs i did not take the parking ticket there,0.5444,0.2519,0.1562,0.0327,0.0148,1.7214,4j
+Seri Pacific Hotel Kuala Lumpur,5 stars out of 5,"Nice place to stay, very convenience for food and shopping. Except for the lift not fuctioning during peak hours due to out of service. Nevertheless everything is great","Nice place to stay, very convenience for food and shopping",0.0018,0.0026,0.0366,0.4716,0.4873,4.4398,3d_1
+Seri Pacific Hotel Kuala Lumpur,5 stars out of 5,"Receptionist and facilities were top notch.lokasi strategik, dekat dengan sunway putra mall, wtc. Breakfast sedap & variety option. Boleh repeat stay lagi. Overall puas hati tapiii parking sangat limited",Overall puas hati tapiii parking sangat limited,0.1484,0.4317,0.3708,0.0412,0.0079,2.3283,4j
+Seri Pacific Hotel Kuala Lumpur,5 stars out of 5,"Easy access to public transport and shopping mall. However, the parking is limited.","However, the parking is limited",0.078,0.2962,0.5052,0.1076,0.0129,2.6812,4j
+Seri Pacific Hotel Kuala Lumpur,5 stars out of 5,"This hotel is pretty good overall, but the parking situation is a mess.  Having to park at the WTC and use their ticket system is confusing.  It's not clear where to go and which ticket to use.  They really need to simplify the parking process.","This hotel is pretty good overall, but the parking situation is a mess",0.0063,0.0508,0.5781,0.3495,0.0153,3.3166,4j
+Seri Pacific Hotel Kuala Lumpur,5 stars out of 5,"This hotel is pretty good overall, but the parking situation is a mess.  Having to park at the WTC and use their ticket system is confusing.  It's not clear where to go and which ticket to use.  They really need to simplify the parking process.",They really need to simplify the parking process,0.1445,0.3861,0.3811,0.0678,0.0205,2.4339,4j
+Seri Pacific Hotel Kuala Lumpur,5 stars out of 5,"If you have any event at PWTC-KL, then Seri Pacific Hotel is the best stay for you and ease off your work or participation to save time for travelling, walking through and from on time. It's located site by site and believe me, it's a nice hotel. Booking in agoda gives me reasonable rate. Do park at their basement for hotel discounts. If you park at WTC area, you need to mention your parking for stamping purposes. Centre of town of KL and all the facilities you need is just nearby.","If you park at WTC area, you need to mention your parking for stamping purposes",0.115,0.142,0.278,0.2786,0.1864,3.2792,4j
+Seri Pacific Hotel Kuala Lumpur,5 stars out of 5,parking rm5 per entry dan limited. lif ada 5 berfungsi hanya 2. terpaksa menunggu sehingga setengah jam bersesak dalam lif,parking rm5 per entry dan limited,0.2183,0.2734,0.3358,0.1117,0.0609,2.5233,4j
+Seri Pacific Hotel Kuala Lumpur,5 stars out of 5,Convenience,Convenience,0.0123,0.0213,0.1438,0.4178,0.4049,4.1818,3d_1
+Seri Pacific Hotel Kuala Lumpur,5 stars out of 5,Need to improve on maintenance services. We have to change to another room because the room's air conditioning not functioning and 3 out of 5 of the guest lifts were out of service.,We have to change to another room because the room's air conditioning not functioning and 3 out of 5 of the guest lifts were out of service,0.4027,0.3906,0.1793,0.0225,0.0049,1.8363,4f
+Seri Pacific Hotel Kuala Lumpur,5 stars out of 5,"Lousy hotel. It spoiled our day, and we had to walk the stairs even though five elevators were out of service simultaneously. No technician was available for immediate repair, and no staff member guided us to the staircase. My parents are elderly and also had to walk. I will never stay there again.","It spoiled our day, and we had to walk the stairs even though five elevators were out of service simultaneously",0.1047,0.21,0.2603,0.243,0.182,3.1876,2a_1
+Seri Pacific Hotel Kuala Lumpur,5 stars out of 5,"Lousy hotel. It spoiled our day, and we had to walk the stairs even though five elevators were out of service simultaneously. No technician was available for immediate repair, and no staff member guided us to the staircase. My parents are elderly and also had to walk. I will never stay there again.","It spoiled our day, and we had to walk the stairs even though five elevators were out of service simultaneously",0.1047,0.21,0.2603,0.243,0.182,3.1876,2g_1
+Seri Pacific Hotel Kuala Lumpur,5 stars out of 5,"Lousy hotel. It spoiled our day, and we had to walk the stairs even though five elevators were out of service simultaneously. No technician was available for immediate repair, and no staff member guided us to the staircase. My parents are elderly and also had to walk. I will never stay there again.",My parents are elderly and also had to walk,0.2984,0.4035,0.2234,0.0496,0.0252,2.0997,7a
+Seri Pacific Hotel Kuala Lumpur,5 stars out of 5,The elevator is broken. It takes a long time to wait.,The elevator is broken,0.4543,0.3903,0.1419,0.011,0.0025,1.717,2g_1
+Seri Pacific Hotel Kuala Lumpur,5 stars out of 5,"Its an old property and you see it and feel it, in the common areas as well as the rooms. They had a good spacious bathroom which had 2 rooms for shower as well as bath tub and the WC, which was uniquely pleasant. Bed was firm enough for me but the linen and towels were old, but clean.
+Didn't feel like a 5 star property but more like a 4 star hotel. All the staff are warm, smiling & helpful. 
+Breakfast was good. Not many options for me , but most people would like it is my guess. 
+Well located , opp Sunway putra mall, close to PWTC metro with a sky walk, and also to Putra kommuter train station which has trains to Batu caves. 
+I got a good deal and hotel was not very crowded when I stayed. So enjoyed my stay overall.","They had a good spacious bathroom which had 2 rooms for shower as well as bath tub and the WC, which was uniquely pleasant",0.0065,0.0208,0.1612,0.5724,0.2391,4.0169,2e_1
+Seri Pacific Hotel Kuala Lumpur,5 stars out of 5,A bit noisy outside of room like can hear people go out and in room,A bit noisy outside of room like can hear people go out and in room,0.0432,0.2676,0.58,0.1021,0.0072,2.7623,4a
+Seri Pacific Hotel Kuala Lumpur,5 stars out of 5,"Everything is great except very limited parking space. But you can park at PWTC just next door. PLEASE take the parking ticket if you parking at the PWTC because they only validate the ticket for RM5 per entry. Pay at the counter in the hotel then you have to go to manned counter machine to validate the ticket on the way out of the parking.
+Our room is spacious, complete with basic amenities, with separate shower and bathtub space. There is iron + ironboard in the room. 
+Location wise is great. Near to LRT PWTC, next to Sunway Putra Mall. Breakfast spread is mid range. I think nasi lemak and the sambal is very nice. It has a lot of dessert from traditional kuih muih and cakes, they also have diet menu.
+Definitely will come back here again.",Everything is great except very limited parking space,0.03,0.0835,0.3723,0.4365,0.0778,3.4488,4j
+Seri Pacific Hotel Kuala Lumpur,5 stars out of 5,"Everything is great except very limited parking space. But you can park at PWTC just next door. PLEASE take the parking ticket if you parking at the PWTC because they only validate the ticket for RM5 per entry. Pay at the counter in the hotel then you have to go to manned counter machine to validate the ticket on the way out of the parking.
+Our room is spacious, complete with basic amenities, with separate shower and bathtub space. There is iron + ironboard in the room. 
+Location wise is great. Near to LRT PWTC, next to Sunway Putra Mall. Breakfast spread is mid range. I think nasi lemak and the sambal is very nice. It has a lot of dessert from traditional kuih muih and cakes, they also have diet menu.
+Definitely will come back here again.",PLEASE take the parking ticket if you parking at the PWTC because they only validate the ticket for RM5 per entry,0.3686,0.226,0.2534,0.1032,0.0488,2.2375,4j
+Seri Pacific Hotel Kuala Lumpur,5 stars out of 5,"Everything is great except very limited parking space. But you can park at PWTC just next door. PLEASE take the parking ticket if you parking at the PWTC because they only validate the ticket for RM5 per entry. Pay at the counter in the hotel then you have to go to manned counter machine to validate the ticket on the way out of the parking.
+Our room is spacious, complete with basic amenities, with separate shower and bathtub space. There is iron + ironboard in the room. 
+Location wise is great. Near to LRT PWTC, next to Sunway Putra Mall. Breakfast spread is mid range. I think nasi lemak and the sambal is very nice. It has a lot of dessert from traditional kuih muih and cakes, they also have diet menu.
+Definitely will come back here again.",Pay at the counter in the hotel then you have to go to manned counter machine to validate the ticket on the way out of the parking,0.3169,0.1901,0.2118,0.1506,0.1306,2.5879,4j
+Seri Pacific Hotel Kuala Lumpur,5 stars out of 5,"Everything is great except very limited parking space. But you can park at PWTC just next door. PLEASE take the parking ticket if you parking at the PWTC because they only validate the ticket for RM5 per entry. Pay at the counter in the hotel then you have to go to manned counter machine to validate the ticket on the way out of the parking.
+Our room is spacious, complete with basic amenities, with separate shower and bathtub space. There is iron + ironboard in the room. 
+Location wise is great. Near to LRT PWTC, next to Sunway Putra Mall. Breakfast spread is mid range. I think nasi lemak and the sambal is very nice. It has a lot of dessert from traditional kuih muih and cakes, they also have diet menu.
+Definitely will come back here again.","Our room is spacious, complete with basic amenities, with separate shower and bathtub space",0.0017,0.0029,0.0377,0.414,0.5437,4.4951,2e_1
+Seri Pacific Hotel Kuala Lumpur,5 stars out of 5,"The hotel's parking is limited and need to park under WTC building which is right after the hotel exit. It is strongly advise to take the parking ticket instead of using Touch n Go card to enter for parking since its expensive.Once the parking ticket taken need to go to counter which is near to receptions for validation on RM 5 per entry. During park the car, it is advisable to park at P , Q or R lots as it is the nearest car park to hotel lift.",The hotel's parking is limited and need to park under WTC building which is right after the hotel exit,0.2859,0.4068,0.2523,0.0434,0.0116,2.0878,4j
+Seri Pacific Hotel Kuala Lumpur,5 stars out of 5,"The hotel's parking is limited and need to park under WTC building which is right after the hotel exit. It is strongly advise to take the parking ticket instead of using Touch n Go card to enter for parking since its expensive.Once the parking ticket taken need to go to counter which is near to receptions for validation on RM 5 per entry. During park the car, it is advisable to park at P , Q or R lots as it is the nearest car park to hotel lift.",It is strongly advise to take the parking ticket instead of using Touch n Go card to enter for parking since its expensive,0.0629,0.0974,0.2292,0.3897,0.2208,3.6082,4j
+Seri Pacific Hotel Kuala Lumpur,5 stars out of 5,"The hotel's parking is limited and need to park under WTC building which is right after the hotel exit. It is strongly advise to take the parking ticket instead of using Touch n Go card to enter for parking since its expensive.Once the parking ticket taken need to go to counter which is near to receptions for validation on RM 5 per entry. During park the car, it is advisable to park at P , Q or R lots as it is the nearest car park to hotel lift.",Once the parking ticket taken need to go to counter which is near to receptions for validation on RM 5 per entry,0.2606,0.2417,0.2874,0.1413,0.069,2.5164,4j
+Seri Pacific Hotel Kuala Lumpur,5 stars out of 5,I book though agoda.it was nice but parking have to pay every time I go out.what was use.,it was nice but parking have to pay every time I go out,0.0946,0.2219,0.4781,0.1737,0.0318,2.8261,4j
+Seri Pacific Hotel Kuala Lumpur,5 stars out of 5,"Cleanliness & Comfort: Rooms are generally clean and comfortable, with many guests appreciating the spacious bathrooms and separate shower areas. ​
+
+Staff & Service: The hotel staff are frequently praised for their friendliness and professionalism. Early check-ins and special requests are often accommodated, enhancing the guest experience. ​
+
+Dining: Breakfast receives mixed reviews; while some guests enjoy the variety and quality, others feel there's room for improvement, particularly in the local dishes offered. ​","Cleanliness & Comfort: Rooms are generally clean and comfortable, with many guests appreciating the spacious bathrooms and separate shower areas",0.0019,0.0095,0.1896,0.6385,0.1604,3.9461,2e_1
+Seri Pacific Hotel Kuala Lumpur,5 stars out of 5,The property excelled in every aspect from the impeccable cleanliness to the exceptional staff service. The convenient location made exploring the area a breeze. The breakfast was delightful and the WiFi was reliable. The parking facilities were convenient and the walk ability of the area was superb. Overall a highly recommended stay,The parking facilities were convenient and the walk ability of the area was superb,0.0036,0.0086,0.0684,0.4513,0.4681,4.3716,4j
+Seri Pacific Hotel Kuala Lumpur,5 stars out of 5,"Quiet hotel and delicious breakfast,I like it","Quiet hotel and delicious breakfast,I like it",0.0019,0.003,0.053,0.513,0.4292,4.3646,6e
+Seri Pacific Hotel Kuala Lumpur,5 stars out of 5,"The room was clean and cozy 
+All the staff was too friendly and helpful
+A lot of parking space (can park at WTC also)
+Near mall and public transport
+
+Highly Recommended","The room was clean and cozy 
+All the staff was too friendly and helpful
+A lot of parking space (can park at WTC also)
+Near mall and public transport
+
+Highly Recommended",0.0086,0.0251,0.0771,0.3763,0.5128,4.3596,4j
+Seri Pacific Hotel Kuala Lumpur,5 stars out of 5,"Our family had a fantastic stay at this hotel. The location was convenient,and the staff were friendly and attentive. The facilities were top-notch, including a lovely pool and reliable Wi-Fi. The rooms were clean, and housekeeping did an excellent job. We enjoyed the hot water in the showers and appreciated the hassle-free parking. Overall, a wonderful experience for families with young children",We enjoyed the hot water in the showers and appreciated the hassle-free parking,0.0044,0.0166,0.1859,0.6264,0.1667,3.9346,4j
+Seri Pacific Hotel Kuala Lumpur,5 stars out of 5,"We had a comfortable and family-friendly stay, with a spacious and clean room that was perfect for our young children. The hotel staff were helpful and accommodating, and we appreciated the quiet environment and convenient location near shops and restaurants. Overall, it was a pleasant and stress-free experience, and we would happily return for another stay.","The hotel staff were helpful and accommodating, and we appreciated the quiet environment and convenient location near shops and restaurants",0.002,0.007,0.1266,0.6035,0.2609,4.1143,5c_1
+Seri Pacific Hotel Kuala Lumpur,5 stars out of 5,"We had a comfortable and family-friendly stay, with a spacious and clean room that was perfect for our young children. The hotel staff were helpful and accommodating, and we appreciated the quiet environment and convenient location near shops and restaurants. Overall, it was a pleasant and stress-free experience, and we would happily return for another stay.","The hotel staff were helpful and accommodating, and we appreciated the quiet environment and convenient location near shops and restaurants",0.002,0.007,0.1266,0.6035,0.2609,4.1143,6e
+Seri Pacific Hotel Kuala Lumpur,5 stars out of 5,Since 2015 duk hotel ni...semua terbaik..cume air panas je onn n off...tapi last stay on 2-4 april 2025...ok je...maybe facility dia best la compare to other hotel in the middle of city...senang nk bergerak...tapi park as a guest still kene byr gak sekarang..flat rate RM5...ok la kan...klu parking penuh leh park kt parking PWTC...valet attendant pon baik2...berbudi bahasa...ade sorang brader tu siap tutup my window pakai plastik sbb i lupa nk naikkan tingkap...lupa nama dia dah...dia jela baik...yg lain..cm gangster...🤭,klu parking penuh leh park kt parking PWTC,0.1227,0.1048,0.1965,0.2327,0.3433,3.5691,4j
+Seri Pacific Hotel Kuala Lumpur,5 stars out of 5,Parking so limited... Extra parking little bit far,Parking so limited,0.3788,0.4052,0.1895,0.0199,0.0065,1.87,4j
+Seri Pacific Hotel Kuala Lumpur,5 stars out of 5,Parking so limited... Extra parking little bit far,Extra parking little bit far,0.0383,0.0569,0.1845,0.3955,0.3248,3.9117,4j
+Seri Pacific Hotel Kuala Lumpur,5 stars out of 5,location was very central and batu caves was easy to get to from the hotel.   price for the hotel was very reasonable.,location was very central and batu caves was easy to get to from the hotel,0.0217,0.0755,0.2398,0.4306,0.2324,3.7764,3d_2
+Seri Pacific Hotel Kuala Lumpur,5 stars out of 5,semua ok cuma parking kena bayar pastu xde parking kat same building…nasib ada manager yg membantu…tq tu en manager.,semua ok cuma parking kena bayar pastu xde parking kat same building…nasib ada manager yg membantu…tq tu en manager,0.0273,0.0386,0.2074,0.3444,0.3823,4.0157,4j
+Seri Pacific Hotel Kuala Lumpur,5 stars out of 5,"I was standing in what I thought was a queue only to be cut twice and the staff didn't seem to be bothered to ask who's actually next. Didn't mean to make a fuss but I thought a 5 star establishment shouldn't have missed something so basic.
+
+I booked for a smoking room but was told on check-in that all rooms were non-smoking. No complaint about the room though you could tell the mattress had seen better days from the way it sinks in the middle. But the sheets, the down pillows and the room in general felt clean and fresh.
+
+If you plan to use the sauna and gym be prepared to pay for the drinking water.",If you plan to use the sauna and gym be prepared to pay for the drinking water,0.1255,0.2486,0.3581,0.195,0.0729,2.8413,6d_1
+Seri Pacific Hotel Kuala Lumpur,5 stars out of 5,"Fantastix location with easy train station access. The staff were exceptional, making our stay enjoyable. I’ve got upgraded room with a lovely view, perfect for a goonidght sleep. Wifi was reliable, but parking was a bit of a hassle. Overall, a value for money choice.","Wifi was reliable, but parking was a bit of a hassle",0.0142,0.1114,0.5705,0.2894,0.0145,3.1786,4j
+Seri Pacific Hotel Kuala Lumpur,5 stars out of 5,"just a few steps from Sunway Putra Mall, food was delicious & many choice, the bread butter pudding was the bomb.","just a few steps from Sunway Putra Mall, food was delicious & many choice, the bread butter pudding was the bomb",0.0267,0.0473,0.1342,0.3936,0.3981,4.0891,2a_1
+Seri Pacific Hotel Kuala Lumpur,5 stars out of 5,"Parking kena bayar ya..hotel lain xperlu pun wlpun RM5.00
+
+Request bilik non smoking tp dpt bilik mcm bilik smoking plak..sesak nafas rasa..bkn saya je complain, anak umur 10 thn yg ckp ya..
+
+Ms check out reception xtanya pun nk validate tiket parking..yelah notis semua dh tanpal kt lift pintu dinding..tp u tanya la.. i mn nk rajin bc notis2 tu.. dgn beg, anak2, mkn2, mn la nk pikir parking.. xpasal nk kena naik balik tny..adoi",Parking kena bayar ya,0.173,0.1397,0.2165,0.2212,0.2496,3.2347,4j
+Seri Pacific Hotel Kuala Lumpur,5 stars out of 5,"Parking kena bayar ya..hotel lain xperlu pun wlpun RM5.00
+
+Request bilik non smoking tp dpt bilik mcm bilik smoking plak..sesak nafas rasa..bkn saya je complain, anak umur 10 thn yg ckp ya..
+
+Ms check out reception xtanya pun nk validate tiket parking..yelah notis semua dh tanpal kt lift pintu dinding..tp u tanya la.. i mn nk rajin bc notis2 tu.. dgn beg, anak2, mkn2, mn la nk pikir parking.. xpasal nk kena naik balik tny..adoi",Ms check out reception xtanya pun nk validate tiket parking,0.1913,0.122,0.2016,0.2197,0.2654,3.246,4j
+Seri Pacific Hotel Kuala Lumpur,5 stars out of 5,"Parking kena bayar ya..hotel lain xperlu pun wlpun RM5.00
+
+Request bilik non smoking tp dpt bilik mcm bilik smoking plak..sesak nafas rasa..bkn saya je complain, anak umur 10 thn yg ckp ya..
+
+Ms check out reception xtanya pun nk validate tiket parking..yelah notis semua dh tanpal kt lift pintu dinding..tp u tanya la.. i mn nk rajin bc notis2 tu.. dgn beg, anak2, mkn2, mn la nk pikir parking.. xpasal nk kena naik balik tny..adoi","dgn beg, anak2, mkn2, mn la nk pikir parking",0.1657,0.1529,0.228,0.2069,0.2464,3.2155,4j
+Seri Pacific Hotel Kuala Lumpur,5 stars out of 5,"Friendly staff, strategic location and more space parking at WTC, KL.","Friendly staff, strategic location and more space parking at WTC, KL",0.007,0.0136,0.0829,0.4216,0.4749,4.3436,4j
+Seri Pacific Hotel Kuala Lumpur,5 stars out of 5,"I decided to stay at this hotel after a tiring shopping trip for school uniforms at SOGO. Taking the LRT to this hotel from Bandaraya Station was very convenient.
+
+I had a fantastic stay . The room was nice and spacious, with all the necessities you’d expect from a 5-star property. The bathroom was clean and had a pleasant fragrance, which made it even more relaxing. The mattress was soft, and the pillow was incredibly fluffy, ensuring a great night’s sleep.
+
+Check-in and check-out were quick and seamless, which I really appreciated. The staff were exceptionally friendly, always ready to assist with a smile. The hotel’s location is also an added advantage, being very close to Sunway Putra Mall and the LRT station, making it super convenient to explore the area.
+
+Additionally, there was a great variety of TV channels to choose from, perfect for winding down after a busy day. Overall, a very pleasant and enjoyable stay!","The mattress was soft, and the pillow was incredibly fluffy, ensuring a great night’s sleep",0.0925,0.1866,0.2074,0.2667,0.2469,3.3889,4e
+Seri Pacific Hotel Kuala Lumpur,5 stars out of 5,"The location of the hotel near the train station was great. It was also close to a big shopping centre with numerous restaurants. The highlight was the amazing buffet breakfast. Something for everyone. The coffee with Illy coffee beans was great too.
+The hotel itself is a bit tired but not a big issue for me and the beds were very firm.
+Shout out to the concierge. They were very helpful.",Shout out to the concierge,0.5038,0.21,0.1227,0.0815,0.082,2.0279,4i
+Seri Pacific Hotel Kuala Lumpur,5 stars out of 5,"Highly recommended for its location. Room spacious enough to board adult children. LRTs station is close for transit interchange to go places, premium shopping mall is just across the street adjascent to the hotel but chow kit business area is close- by for cheap bargains. Room floor is carpeted without the familiar hotel carpet odour. The bathroom shower knobs, bidets and basin requires facelift though😬. The roofed free parking is available but limited as guests has to share with pwtc patrons","The bathroom shower knobs, bidets and basin requires facelift though😬",0.0355,0.1002,0.3258,0.3945,0.1441,3.5114,2e_1
+Seri Pacific Hotel Kuala Lumpur,5 stars out of 5,"Highly recommended for its location. Room spacious enough to board adult children. LRTs station is close for transit interchange to go places, premium shopping mall is just across the street adjascent to the hotel but chow kit business area is close- by for cheap bargains. Room floor is carpeted without the familiar hotel carpet odour. The bathroom shower knobs, bidets and basin requires facelift though😬. The roofed free parking is available but limited as guests has to share with pwtc patrons",The roofed free parking is available but limited as guests has to share with pwtc patrons,0.0331,0.1366,0.5004,0.2866,0.0434,3.1706,4j
+Seri Pacific Hotel Kuala Lumpur,5 stars out of 5,"enjoy the staycation. the only issue is parking is not sufficient. have to park at WTC, but not being informed to take ticket instead using TNG. got charge for parking almost Rm23!..",the only issue is parking is not sufficient,0.0875,0.1469,0.3542,0.3513,0.0602,3.1498,4j
+Seri Pacific Hotel Kuala Lumpur,5 stars out of 5,"enjoy the staycation. the only issue is parking is not sufficient. have to park at WTC, but not being informed to take ticket instead using TNG. got charge for parking almost Rm23!..",got charge for parking almost Rm23,0.0442,0.0645,0.1801,0.3664,0.3448,3.9032,4j
+Seri Pacific Hotel Kuala Lumpur,5 stars out of 5,Spacious clean Bathroom with separated bathroom and bathtub.High pressure shower. Best scents of shower gel and shampoo.Cool and spacious room with comfortable king sized bed and pillows . Breakfast is good .The croissant is top notch. The staffs are friendly and have a good smiles .,High pressure shower,0.0608,0.073,0.1581,0.3072,0.4009,3.9144,2e_1
+Seri Pacific Hotel Kuala Lumpur,5 stars out of 5,Spacious clean Bathroom with separated bathroom and bathtub.High pressure shower. Best scents of shower gel and shampoo.Cool and spacious room with comfortable king sized bed and pillows . Breakfast is good .The croissant is top notch. The staffs are friendly and have a good smiles .,Best scents of shower gel and shampoo,0.0031,0.0028,0.0088,0.0756,0.9098,4.8863,2e_1
+Seri Pacific Hotel Kuala Lumpur,5 stars out of 5,Walking distance to shopping mall. Many parking lot.,Many parking lot,0.0787,0.1369,0.233,0.2793,0.2721,3.5292,4j
+Seri Pacific Hotel Kuala Lumpur,5 stars out of 5,"Staff yg sgt beretika dan ramah, bilik yg luas dan bersih, parking yang sangat nudah, dekat dengan sunway mall dan yang paling best makanan breakfast yang pelbagai dan sangat sedapp. Will repeat again for sureeee 😍😍","Staff yg sgt beretika dan ramah, bilik yg luas dan bersih, parking yang sangat nudah, dekat dengan sunway mall dan yang paling best makanan breakfast yang pelbagai dan sangat sedapp",0.0439,0.095,0.1849,0.2933,0.3829,3.8761,4j
+Seri Pacific Hotel Kuala Lumpur,5 stars out of 5,"I booked two room,one room when i check in,have hairs on the pillow n bedsheet..one room have cockroaches  in drawer and the toilet room is clogged..water down slowly after use..breakfast awesome..variety and delicious..pool not big..parking hotel not enough..staff very helpful..👍👍..easy walk to mall..","I booked two room,one room when i check in,have hairs on the pillow n bedsheet",0.3789,0.277,0.1923,0.0841,0.0677,2.1847,4e
+Seri Pacific Hotel Kuala Lumpur,5 stars out of 5,"I booked two room,one room when i check in,have hairs on the pillow n bedsheet..one room have cockroaches  in drawer and the toilet room is clogged..water down slowly after use..breakfast awesome..variety and delicious..pool not big..parking hotel not enough..staff very helpful..👍👍..easy walk to mall..",parking hotel not enough,0.4182,0.3025,0.2091,0.0489,0.0212,1.9525,4j
+Seri Pacific Hotel Kuala Lumpur,5 stars out of 5,"Beat xterkira. Selesa xterkira. Nk mandi air terjun tp takut pi air terjun betui, mai hotel ni. Dia punya shower standard air terjun. Luas selesa, makan sedap, sebelah mall.",Dia punya shower standard air terjun,0.1514,0.1422,0.2494,0.2049,0.252,3.2639,2e_1
+Seri Pacific Hotel Kuala Lumpur,5 stars out of 5,Ample parking at PWTC. Please remember to take ticket instead of tapping tng to enjoy the flat rate parking of RM3. Breakfast marvellous!,Ample parking at PWTC,0.0249,0.0359,0.1022,0.342,0.4951,4.2464,4j
+Seri Pacific Hotel Kuala Lumpur,5 stars out of 5,Ample parking at PWTC. Please remember to take ticket instead of tapping tng to enjoy the flat rate parking of RM3. Breakfast marvellous!,Please remember to take ticket instead of tapping tng to enjoy the flat rate parking of RM3,0.1515,0.1617,0.287,0.2302,0.1697,3.1049,4j
+Seri Pacific Hotel Kuala Lumpur,5 stars out of 5,"Very limited  options for vegetarian customers. Some customers were seen using same serving spoons between vegetarian & non vegetarian dishes. ☹️
+For foreign tourists , please look for only CHEF for vege food queries , not from normal staff.",Very limited  options for vegetarian customers,0.3013,0.4365,0.2201,0.0324,0.0098,2.0128,5a_1
+Seri Pacific Hotel Kuala Lumpur,5 stars out of 5,"Very limited  options for vegetarian customers. Some customers were seen using same serving spoons between vegetarian & non vegetarian dishes. ☹️
+For foreign tourists , please look for only CHEF for vege food queries , not from normal staff.",Some customers were seen using same serving spoons between vegetarian & non vegetarian dishes,0.1725,0.3348,0.3688,0.0976,0.0263,2.4706,5a_1
+Seri Pacific Hotel Kuala Lumpur,5 stars out of 5,"Excellent Stay at Seri Pacific Hotel – Highly Recommended!
+
+I recently had the pleasure of staying at Seri Pacific Hotel Kuala Lumpur, and it was truly a fantastic experience. From the moment I arrived, the warm hospitality and efficient service made me feel welcome.
+
+Rooms & Comfort
+
+The room was spacious, clean, and well-maintained, with a comfortable bed that ensured a great night’s sleep. The view of the city skyline was a delightful bonus! The amenities provided were excellent, including a well-stocked minibar, complimentary toiletries, and a fast, reliable Wi-Fi connection.
+
+Service & Hospitality
+
+The staff were incredibly friendly and professional, always ready to assist with a smile. Check-in and check-out were smooth, and any requests were handled promptly. Their attention to detail truly made a difference in my stay.
+
+Dining Experience
+
+The breakfast buffet had a wide selection of delicious local and international dishes, ensuring a great start to the day. The on-site restaurants also offered high-quality food with great service.
+
+Location & Accessibility
+
+The hotel is strategically located near PWTC (Putra World Trade Centre), making it ideal for business travelers and event attendees. It’s also well-connected to public transport, with easy access to shopping malls and attractions in Kuala Lumpur.
+
+Facilities & Amenities
+
+I appreciated the well-equipped gym, refreshing swimming pool, and relaxing spa services. The executive lounge was a great place to unwind or catch up on work.
+
+Overall Experience
+
+My stay at Seri Pacific Hotel was beyond expectations, offering comfort, convenience, and top-notch service. Whether you’re visiting for business or leisure, this hotel is a great choice in Kuala Lumpur.
+
+⭐ Rating: 5/5 – Definitely looking forward to staying here again!","Facilities & Amenities
+
+I appreciated the well-equipped gym, refreshing swimming pool, and relaxing spa services",0.0028,0.0111,0.1429,0.5748,0.2683,4.0946,6b_1
+Seri Pacific Hotel Kuala Lumpur,5 stars out of 5,"Seri Pacific Hotel is my fav hotel in KL . I love the vibe , beautiful rooms and the most importantly, the toilet so different with others hotel . The shower room is separated with bath tub  and sink too . Its easy to use when u stay with your friends and family . Can use the toilet at the same time with different room . No more waiting and take turns . Its really satisfied .",The shower room is separated with bath tub  and sink too,0.1207,0.2378,0.3024,0.207,0.1321,2.9918,2e_1
+Seri Pacific Hotel Kuala Lumpur,5 stars out of 5,"Overall smue ok,cume sedih parking pon kne cas rm5 utk guest.haha…","Overall smue ok,cume sedih parking pon kne cas rm5 utk guest",0.0231,0.0891,0.5048,0.3161,0.067,3.3148,4j
+Seri Pacific Hotel Kuala Lumpur,5 stars out of 5,"Strategic location, connected to mall and lrt station. Great service and ample parking. Good food too...",Great service and ample parking,0.0026,0.0028,0.0194,0.2537,0.7216,4.6889,4j
+Seri Pacific Hotel Kuala Lumpur,5 stars out of 5,"Good things first . 
+Location is excellent . There is a bridge linking to the mall infront and to an mrt station. The room is clean, spacious with a comfortable bed . The staffs are very helpful and accommodating, which is rare in a big hotel . 
+But 
+The check in process is a hassle . They are very tight with the 3 pm checking in causing a massive queue when 3 pm arrives . The check in area is not very big so the que can get a bit messy . Parking is a nightmare too . I suspect many park at wtc , but the parking validation process is seamless ( use ticket , not tng ).",Parking is a nightmare too,0.3838,0.2246,0.1672,0.1096,0.1147,2.3468,4j
+Seri Pacific Hotel Kuala Lumpur,5 stars out of 5,"Good things first . 
+Location is excellent . There is a bridge linking to the mall infront and to an mrt station. The room is clean, spacious with a comfortable bed . The staffs are very helpful and accommodating, which is rare in a big hotel . 
+But 
+The check in process is a hassle . They are very tight with the 3 pm checking in causing a massive queue when 3 pm arrives . The check in area is not very big so the que can get a bit messy . Parking is a nightmare too . I suspect many park at wtc , but the parking validation process is seamless ( use ticket , not tng ).","I suspect many park at wtc , but the parking validation process is seamless ( use ticket , not tng )",0.0802,0.1951,0.3583,0.2732,0.0932,3.1039,4j
+Seri Pacific Hotel Kuala Lumpur,5 stars out of 5,I Check In this hotel Since 2012 and Its my Favourite Hotel Last Time .. so this time i check for two days i arrive  from cameron highland that night on 9th i book the room before cmas holiday Almost two earlier. Once i arrive at front of lobby after long jounery The Greet Very Disppointed By Hotel Staff. I ask them can i park to Check In They Told you go park 1st at pwtc car around 1km from Hotel  and come check in.. Then i raise my voice he told me that ok ok park here.. after the i went to reception to check in she give me two single bed join but i book single king bed 2 disppoiment the when to room but room pillow seriusly Tell u like pillow at Motel Atas Kedai Kopi…No any Compliment gave. Last day before check out 11.30 already Call To Check Sharp 12.00… Pls guys go and fine hotels not this.. now service very bad..: Me & My wife to recreate momen this hotel become tired abd Horrible,after the i went to reception to check in she give me two single bed join but i book single king bed 2 disppoiment the when to room but room pillow seriusly Tell u like pillow at Motel Atas Kedai Kopi…No any Compliment gave,0.4334,0.3825,0.1559,0.0214,0.0067,1.7855,4e
+Soho Suites KLCC by Leala,5 stars out of 5,"I used it for 3 nights on the weekend. From check-in to check-out, they paid close attention to every detail. They also took care of my luggage until my flight time after check-out. The location is about halfway between Suria and Pavilion Mall, making it easy to get anywhere. It's on a high floor, so the Twin Towers and KL Tower looked amazing at night. Warm water came out well, and I was able to enjoy Korean broadcasts comfortably. However, I recommend bringing your own shower filter.","However, I recommend bringing your own shower filter",0.0203,0.0858,0.4629,0.3647,0.0663,3.3709,2e_1
+Soho Suites KLCC by Leala,5 stars out of 5,Need maintenance for the shower and tap. But generally it was very clean and good. Good hospitality from the staff too.,Need maintenance for the shower and tap,0.0949,0.2396,0.3982,0.1901,0.0771,2.915,2e_1
+Soho Suites KLCC by Leala,5 stars out of 5,"A very nice apartment with 2 bedrooms, 2 bathroom, living room, kitchen and dining area. 
+
+Love the view of the city from the apartment. KL Tower is very near it can be visibly seen from the apartment.
+
+The whole apartment is clean including the bathrooms. 
+
+Facilities include complete kitchen utilities, microwave oven, fridge, water dispenser, electric kettle & a TV.
+
+There is also a washing machine, indoor drying rack and detergent provided.
+
+Shampoo and shower gels were provided in the bathrooms. Towels were also provided and they even offer to provide extra towels if needed. 
+
+Housekeeping is provided upon request.
+
+Iron and ironing board was also provided.
+
+Wifi is available.
+
+The host was so helpful upon check in. 
+
+There is a mini mart at the ground floor of the apartment near the lobby.
+
+Grab pick up and drop off at the apartment is easy and convenient.
+
+KLCC is nearby within walking distance around 10 mins.
+
+Overall this apartment just tick all of our boxes. Would definitely come back to stay here again!",Shampoo and shower gels were provided in the bathrooms,0.0242,0.0334,0.1145,0.3867,0.4411,4.187,2e_1
+Soho Suites KLCC by Leala,5 stars out of 5,"Lokasi trategik! Tgh2 KL city. Nearby KLCC.Bilik bersih,facilities all good!view dari bilik view KLCC ni part paling best!Harga mampu tengok and bayar ye. Berbaloi sgt.Ada bathtub. Ada parking khas.Thank you Miss Leala and Mr Amit. Very helpful!Next time dtg KL sure stay here again!",Ada parking khas,0.0351,0.0526,0.2002,0.3473,0.3649,3.9542,4j
+Soho Suites KLCC by Leala,5 stars out of 5,"The apartment was setup in a simple yet charming style. What stood out the most was the cleanliness of the place, from the bedsheet, ceilings to the utensils prepared at the kitchen. Check in process was efficient with Amit, it took less than 10 mins. Same for check out with JP, highly efficient.
+
+Parking space was provided, and you can park anywhere in the multi storey carpark.
+
+Access to the estate is strictly via card and RFID card for vehicles, meaning it’s highly secure.","Parking space was provided, and you can park anywhere in the multi storey carpark",0.0061,0.0086,0.0555,0.3736,0.5561,4.4649,4j
+Soho Suites KLCC by Leala,5 stars out of 5,"The property excelled in location, cleanliness, staff friendliness and facilities. The amenities we’re top notch, making the stay comfortable. The central location provided excellent walk ability to nearby shopping areas. Wi-Fi connectivity was reliable throughout the property.",The central location provided excellent walk ability to nearby shopping areas,0.0056,0.0095,0.0702,0.4528,0.462,4.3561,3d_2
+Soho Suites KLCC by Leala,5 stars out of 5,"The host was very accomdating and friendly. The  place is very clean and what you see in the picture is true to
+Itself. The place is very secured and near to restaurants and to Petronas Tower.  My family had the best accomodation in KL and we are very satisfied. Worth the money you paid for.",The place is very secured and near to restaurants and to Petronas Tower,0.0105,0.0195,0.0791,0.3901,0.5008,4.3512,5c_1
+Soho Suites KLCC by Leala,5 stars out of 5,"Family of 4 stayed 2 nights. The host was very forthcoming with information, and coordinated closely on my arrival and check out over whatsapp. 
+
+The 2 bedders were clean, although the beds were abit soft for me. Parking is included but the ramp is very tight - drive slowly.
+
+Soho suites is conveniently located - walking distance to Pavilion and Suria Malls. Easy to grab to places to and from too.
+
+Lovely place to stay",Parking is included but the ramp is very tight - drive slowly,0.0712,0.3136,0.4919,0.1114,0.0119,2.6793,4j
+Soho Suites KLCC by Leala,5 stars out of 5,"Family of 4 stayed 2 nights. The host was very forthcoming with information, and coordinated closely on my arrival and check out over whatsapp. 
+
+The 2 bedders were clean, although the beds were abit soft for me. Parking is included but the ramp is very tight - drive slowly.
+
+Soho suites is conveniently located - walking distance to Pavilion and Suria Malls. Easy to grab to places to and from too.
+
+Lovely place to stay",Parking is included but the ramp is very tight - drive slowly,0.0712,0.3136,0.4919,0.1114,0.0119,2.6793,2b_1
+Soho Suites KLCC by Leala,5 stars out of 5,"We recently had a perfect stay at Hotel Suites KLCC for 2 nights. From start to finish, everything exceeded our expectations. The hotel itself is spacious, impeccably clean, and very comfortable, creating a welcoming atmosphere that made us feel right at home. The host was extremely accommodating, friendly, and a true gentleman, making our experience even more pleasant.
+
+The location of the hotel is unbeatable—within walking distance of iconic Kuala Lumpur landmarks such as the KL Tower, Petronas Towers, Pavilion Mall, and many more. This prime location made exploring the city easy and convenient. Accessibility and convenience are key strengths of Hotel Suites KLCC.
+
+Overall, our stay was outstanding. We thoroughly enjoyed our time here and would not hesitate to book again when we return to Kuala Lumpur. Highly recommended!",Accessibility and convenience are key strengths of Hotel Suites KLCC,0.0059,0.0097,0.0635,0.3487,0.5722,4.4716,3d_1
+Soho Suites KLCC by Leala,5 stars out of 5,Property was centrally located and just a short walk to the sky bridge link to KLCC    Place was clean and each room came with attached bathroom.  There was a washing machine and dryer which was useful for extended stays.  Carpark was free with the access card.  Service by the caretaker was fast and reliable when checking in and out.  Only drawback was that usage of gym and pool facilities required separate payment,Only drawback was that usage of gym and pool facilities required separate payment,0.0212,0.057,0.2998,0.5631,0.0589,3.5813,6d_1
+Soho Suites KLCC by Leala,5 stars out of 5,"Location & Place: The view from the 40th floor was really the best. On the left, you can see the KL Tower, and on the right, the Twin Towers, so you could overlook the city even without going up to the observation deck. It was conveniently located about a 10-minute walk from the Pavilion, right in between the Twin Towers. It was very easy to get around as it’s connected to the Pavilion on the 2nd floor via a pedestrian bridge. The taxi fare is cheap, so you can easily use Grab, and it's convenient since it stops right in front of the hotel. 
+
+The room has a washing machine and dryer, which was great because I could swim downstairs and immediately wash and dry my clothes. 
+
+Cleanliness: The host was very responsive and kind, and I requested cleaning the next day according to my schedule, and it was cleaned very well. The kitchen utensils were also clean, which I made good use of. My parents needed to eat, so it was good to be able to cook. 
+
+Above all, I thank the host for paying such close attention.","The taxi fare is cheap, so you can easily use Grab, and it's convenient since it stops right in front of the hotel",0.0097,0.0576,0.3909,0.4362,0.1057,3.5707,3f
+Soho Suites KLCC by Leala,5 stars out of 5,"Our stay at SoHo Suites KLCC by Leala was truly exceptional! The unit itself was elegant, spotlessly clean, and had a fantastic view of both the KL Tower and one of the Petronas Twin Towers—an absolute treat to wake up to. The staff was professional and accommodating, even allowing us a late check-in and early check-out, which we greatly appreciated.
+
+The location couldn’t be better. With restaurants and convenience stores just a short walk away, and even a convenience store right on the third floor of the building, everything we needed was at our fingertips. We loved how easy it was to walk to places like the luxurious Pavilion Mall, the vibrant Jalan Alor, and the iconic Petronas Twin Towers.
+
+The suite itself was spacious, with large rooms and a well-equipped kitchen stocked with all the utensils you could need. The bathrooms had bidets, which was a nice touch, a bathtub for the master’s bedroom and we loved having a washing machine, smart TV, and free WiFi. For those with a car, the included parking slot was a major plus.
+
+Overall, this place exceeded our expectations in every way. Highly recommend SoHo Suites KLCC by Leala for anyone visiting Kuala Lumpur!","With restaurants and convenience stores just a short walk away, and even a convenience store right on the third floor of the building, everything we needed was at our fingertips",0.1415,0.1397,0.1069,0.2073,0.4046,3.5939,3d_1
+Soho Suites KLCC by Leala,5 stars out of 5,"Our stay at SoHo Suites KLCC by Leala was truly exceptional! The unit itself was elegant, spotlessly clean, and had a fantastic view of both the KL Tower and one of the Petronas Twin Towers—an absolute treat to wake up to. The staff was professional and accommodating, even allowing us a late check-in and early check-out, which we greatly appreciated.
+
+The location couldn’t be better. With restaurants and convenience stores just a short walk away, and even a convenience store right on the third floor of the building, everything we needed was at our fingertips. We loved how easy it was to walk to places like the luxurious Pavilion Mall, the vibrant Jalan Alor, and the iconic Petronas Twin Towers.
+
+The suite itself was spacious, with large rooms and a well-equipped kitchen stocked with all the utensils you could need. The bathrooms had bidets, which was a nice touch, a bathtub for the master’s bedroom and we loved having a washing machine, smart TV, and free WiFi. For those with a car, the included parking slot was a major plus.
+
+Overall, this place exceeded our expectations in every way. Highly recommend SoHo Suites KLCC by Leala for anyone visiting Kuala Lumpur!","For those with a car, the included parking slot was a major plus",0.0134,0.0423,0.2184,0.4605,0.2654,3.9221,4j
+Soho Suites KLCC by Leala,5 stars out of 5,"Walking distance to pavilion, place is safe, clean and good for families. They were able to accommodate to an earlier check in. Do note few things:
+1) Need to pay for the facilities. Towel not provided for pool. 2) Parking is really tight for bigger cars. Lower levels are always occupied. 3) Need to pay deposit but refundable.",2) Parking is really tight for bigger cars,0.0599,0.4848,0.2821,0.1224,0.0508,2.6194,4j
+Soho Suites KLCC by Leala,5 stars out of 5,"Had a pleasure staying at Soho Suites KLCC! 
+
+The apartment was spotless from the moment I walked in, which immediately made me feel comfortable. It’s clear that cleanliness is a top priority here.
+
+The space itself is incredibly cozy and well-designed, offering a welcoming and warm atmosphere. Whether you’re relaxing after a long day of exploring or working remotely, the apartment provides just the right blend of comfort and functionality.
+
+What impressed me the most were the complete amenities. From the fully equipped kitchen to the modern bathroom and fast Wi-Fi, everything I needed was provided. The convenience made it feel like a home away from home, allowing me to fully enjoy my time in the heart of Kuala Lumpur.
+
+The location is fine, just steps away from KLCC. Overall, my stay at Soho KLCC was delightful, and I would highly recommend it to anyone looking for a clean, cozy, and fully-equipped apartment!","The convenience made it feel like a home away from home, allowing me to fully enjoy my time in the heart of Kuala Lumpur",0.0027,0.005,0.0475,0.3889,0.556,4.4906,3d_1
+Soho Suites KLCC by Leala,5 stars out of 5,"Had a pleasure staying at Soho Suites KLCC! 
+
+The apartment was spotless from the moment I walked in, which immediately made me feel comfortable. It’s clear that cleanliness is a top priority here.
+
+The space itself is incredibly cozy and well-designed, offering a welcoming and warm atmosphere. Whether you’re relaxing after a long day of exploring or working remotely, the apartment provides just the right blend of comfort and functionality.
+
+What impressed me the most were the complete amenities. From the fully equipped kitchen to the modern bathroom and fast Wi-Fi, everything I needed was provided. The convenience made it feel like a home away from home, allowing me to fully enjoy my time in the heart of Kuala Lumpur.
+
+The location is fine, just steps away from KLCC. Overall, my stay at Soho KLCC was delightful, and I would highly recommend it to anyone looking for a clean, cozy, and fully-equipped apartment!","The location is fine, just steps away from KLCC",0.085,0.208,0.4267,0.2226,0.0576,2.9597,2a_1
+Soho Suites KLCC by Leala,5 stars out of 5,"I stayed for 6 nights in a 3LDK. I received contact the day before my stay, and from then on, we communicated via LINE. They asked me to contact them 15 minutes before arriving, and when I got there, they were waiting for me. On the 1st and 2nd days, there were times when hot water was hard to get, but after that, there was plenty of hot water. There are two shower rooms and two toilets, which was helpful when I was in a hurry. They responded quickly when I asked for towel exchanges or cleaning in the room. Having a washing machine and dryer was very helpful. Since there’s a converter plug provided, I could just use my devices without any issues. The space is spacious, so I think it's perfect for family stays!","There are two shower rooms and two toilets, which was helpful when I was in a hurry",0.021,0.0525,0.2091,0.4608,0.2566,3.8796,2e_1
+Soho Suites KLCC by Leala,5 stars out of 5,"Communication before reach uint . ( building) 
+Description 10/10 
+Owner 10/10 
+Trust 10/10 
+Locations 10/10 
+Cleanness 10/10 
+View 20/10 . Outstanding. 
+Safety 10/10 , all door by card . Note don’t forget ur card . 
+Housekeeping 10/10 make request before two hours . 
+Shop available on third floor. 
+Elevator 10/10 super fast .
+
+
+Date : from 01/08/2024 to 11/08/2024 .",Elevator 10/10 super fast,0.007,0.0069,0.0177,0.1027,0.8657,4.8133,2g_1
+Soho Suites KLCC by Leala,5 stars out of 5,"1. Well-maintained accommodation
+2. Everything is well-equipped, including a water purifier, washing machine, refrigerator, drying rack, dishes, laundry detergent, handwash, shampoo, body wash, slippers, etc., which is very convenient.
+3. Within walking distance to Petronas Twin Towers, nearby CU, McDonald's
+4. Please check whether there are any inconveniences, if more towels are needed, when cleaning is required, and if luggage storage is needed at checkout.
+5. Great view
+6. Three rooms and two bathrooms, very comfortable for a family of four
+7. The building itself seems a bit old, but the accommodation is really well-maintained.
+
+The most satisfying aspect of my trip to Malaysia was booking the Soho Suites via Realala...","Please check whether there are any inconveniences, if more towels are needed, when cleaning is required, and if luggage storage is needed at checkout",0.1128,0.194,0.4173,0.2136,0.0624,2.9189,4i
+Soho Suites KLCC by Leala,5 stars out of 5,its very nice apartment near to Klcc and city Centre new units and very clean walk to restaurants,its very nice apartment near to Klcc and city Centre new units and very clean walk to restaurants,0.0024,0.0029,0.0245,0.3338,0.6364,4.5988,5c_1
+Soho Suites KLCC by Leala,5 stars out of 5,The apartment was cleaned and with good furniture status.    No reception available only by watssapp but they will answer your question very quickly.   The main entrance doesn’t have a slope entrance to pull your bag and around 5 steps to be raid,The main entrance doesn’t have a slope entrance to pull your bag and around 5 steps to be raid,0.3402,0.3503,0.2327,0.0584,0.0184,2.0645,2a_1
+Soho Suites KLCC by Leala,5 stars out of 5,"Good location and responsive staff.  Good guidance from staff to check in and check out.  The location is convenience and the apartment is spacious. However, the bathrooms are a bit old and perhaps haven't renovated for quite some time but it is clean in general.",The location is convenience and the apartment is spacious,0.0044,0.0139,0.1589,0.5188,0.304,4.104,3d_1
+Soho Suites KLCC by Leala,5 stars out of 5,"Staff are very friendly and helpful. Checkin process was smooth. First day one of the aircon  not working and they resolved immediately.  They provided extra towels when we go for swimming. Walking distance to KLCC. Lot of restaurants within walking distance.  Very clean. 
+Just take note swimming pool and gym access need to pay separately.  20 MYR per adult per use. 
+Free parking available.  Overall Great experience. Will book again if we go KL",Just take note swimming pool and gym access need to pay separately,0.1892,0.228,0.3147,0.1764,0.0917,2.7535,6d_1
+Soho Suites KLCC by Leala,5 stars out of 5,"Staff are very friendly and helpful. Checkin process was smooth. First day one of the aircon  not working and they resolved immediately.  They provided extra towels when we go for swimming. Walking distance to KLCC. Lot of restaurants within walking distance.  Very clean. 
+Just take note swimming pool and gym access need to pay separately.  20 MYR per adult per use. 
+Free parking available.  Overall Great experience. Will book again if we go KL",Free parking available,0.0241,0.0255,0.1475,0.4291,0.3737,4.1028,4j
+Soho Suites KLCC by Leala,5 stars out of 5,Not enough hooks in bathroom. Position of shower set is awkward.,Position of shower set is awkward,0.1359,0.3701,0.415,0.0671,0.012,2.4493,2e_1
+Soho Suites KLCC by Leala,5 stars out of 5,"All ratings are 5 stars. The location is perfect, with views of both KL Tower and the Petronas Towers, and there is a 24-hour CU and McDonald's nearby. You can walk to Suria Mall Pavilion within 15 minutes. JP was attentive and caring from before my departure from Malaysia until checkout. You can register as a friend on KakaoTalk and contact him there, and if you request towels, they will be delivered to your accommodation within 5 minutes. For about 6,000 won per person, you can use the outdoor pool. Luggage storage is available after checkout, so you can continue traveling and pick up your bags before heading to the airport. If I go to KL again, I will choose this place without hesitation. If you are contemplating, don’t hesitate.","Luggage storage is available after checkout, so you can continue traveling and pick up your bags before heading to the airport",0.0212,0.0384,0.2103,0.465,0.2651,3.9145,4i
+Soho Suites KLCC by Leala,5 stars out of 5,"my family and i recently visited KL and we were blown away by everything this property has to offer! 
+
+stayed in a 3br with 6 pax. we had a gorgeous view of the petronas towers as well as the kl tower! walking distance to most attractions, truly a great location.
+
+master br had it's own bathtub too! we were shocked to say the least HAHAH the other two brs has a connected bathroom! cooking utensils, cutlery and other equipment were provided + washing machine and dryer (including laundry detergent) we were so pleased! 
+
+super clean. had a bad experience of finding roaches in other apartments in malaysia but we were super impressed at the cleanliness of the apartment! free daily housekeeping (per request) as well! 
+
+there's also a 24hr convenience store within the building and had all the necessities you need. really ALL of it from snacks, breakfast, drinks, toiletries, toys etc.
+
+JP and his staff were really nice and accommodating! some of the best service i've personally gotten. 
+
+my family and i would definitely come back next time! recommending to all my friends as well. thank you JP and team for the wonderful hospitality!",there's also a 24hr convenience store within the building and had all the necessities you need,0.012,0.0179,0.0762,0.3509,0.543,4.3949,3d_1
+Soho Suites KLCC by Leala,5 stars out of 5,"Room wise and staff wise, it is probably better than most hotels/serviced apartments. 
+It is a personalized check in and check out at your convenience. JP and team provided everything. Even umbrellas. 
+They have done above and beyond for their part. 
+Maybe they should takeover the management of the whole development, then maybe the gym and pool which is being run separately now would have better customer service.",It is a personalized check in and check out at your convenience,0.008,0.0124,0.1191,0.4649,0.3955,4.2275,3d_1
+Soho Suites KLCC by Leala,5 stars out of 5,"Room wise and staff wise, it is probably better than most hotels/serviced apartments. 
+It is a personalized check in and check out at your convenience. JP and team provided everything. Even umbrellas. 
+They have done above and beyond for their part. 
+Maybe they should takeover the management of the whole development, then maybe the gym and pool which is being run separately now would have better customer service.","Maybe they should takeover the management of the whole development, then maybe the gym and pool which is being run separately now would have better customer service",0.1746,0.4003,0.3569,0.0587,0.0095,2.328,6d_1
+Soho Suites KLCC by Leala,5 stars out of 5,"Four people, including my daughter, son, and wife, stayed for five days. I contacted JP via KakaoTalk (the Korean version of WhatsApp) the day before our stay, and he graciously responded. We were assigned to the 43rd floor, the highest level, and the view was really amazing. However, due to a malfunctioning noise from the elevator (the building manager said he would fix it right away), we requested JP to move us to a different floor the next day. JP kindly made the change immediately. When we requested extra toilet paper and towels, he had them brought to us through a staff member. The location is about halfway between Pavilion and Suria Mall, both of which are about 500 meters away, so we could walk there. However, since we had kids, we mostly used Grab. The Grab fare wasn’t much. We also enjoyed delicious food via delivery through Grab. Just a note, there is an additional cost for the swimming pool.","However, due to a malfunctioning noise from the elevator (the building manager said he would fix it right away), we requested JP to move us to a different floor the next day",0.2272,0.3745,0.3032,0.0818,0.0133,2.2796,2g_1
+Soho Suites KLCC by Leala,5 stars out of 5,Great location and easy access. Hospitable and always attentive staff. Secure parking and  good pricing.,Secure parking and  good pricing,0.0037,0.0054,0.047,0.4028,0.5412,4.4725,4j
+Soho Suites KLCC by Leala,5 stars out of 5,"I was staying in the unit for 3 nights 2 days with my elderly parents. The unit was simple in decorations with basic necessity. The unuit we were staying was at level 27, so the view were quite nice from bedroom 1,2 and the living area. Can see Kl tower on the left and partial view of KLCC in the right. I slept with the curtain wide open.  There was no proper desk if you want to work from the house. Everything was okay except the floor was a bit dusty when we came in. There was a bath tub but I noticed water kept seeping from the drain stopper, then i realized the rubber band was missing (something to fix). Iron was not that hot but the owner quickly arrange for a new iron and sent it personally to the unit.
+
+So far the easiest and accessible  unit  I've ever stayed",I was staying in the unit for 3 nights 2 days with my elderly parents,0.2676,0.2499,0.2198,0.1552,0.1075,2.585,7a
+Soho Suites KLCC by Leala,5 stars out of 5,"It was a family trip. The accommodation was so clean and spacious that my mom was really happy. The towels smelled nice and the cleaning was thorough. The host was also very friendly. If you’re Korean, this is definitely a place to stay. I saw a comment that mentioned feeling insecure about the password, so I was worried, but the entrance security was really strict. They won’t let you in without a key, and you need a key to go up the floors. We stayed comfortably for four days without any worries. There was an issue with the dryer, but when I contacted them, they immediately called a mechanic and resolved it. Thanks to that, the amount of laundry I had to do at home was greatly reduced. The cooking utensils, knives, toaster, and tableware are all well provided, so it's great for peeling fruit, and if you're taking older parents, it would be good for cooking various meals. The location isn’t super close to the station, but it's within distance to go practically anywhere, and there’s a McDonald's, CU, and Subway nearby, which is nice! My mom was unwell, but they took great care and showed a lot of consideration. If I visit Kuala Lumpur again, I plan to stay here.","The cooking utensils, knives, toaster, and tableware are all well provided, so it's great for peeling fruit, and if you're taking older parents, it would be good for cooking various meals",0.0024,0.0072,0.0847,0.5399,0.3658,4.2595,7a
+Soho Suites KLCC by Leala,5 stars out of 5,"Staff is very responsive to all reasonable requests. Unit is very clean. Car park is a bit tight, a bit challenging for bigger cars. Too bad swiming pool and gym are not free, but can go running in KLCC park if needed.","Too bad swiming pool and gym are not free, but can go running in KLCC park if needed",0.2448,0.4396,0.277,0.0324,0.006,2.1152,6d_1
+Soho Suites KLCC by Leala,5 stars out of 5,"It was a horrible, horrible stay. It was my first experience with canceling a booking. This review is going to be a lengthy one but I must share the horrible experience to warn other travelers about this place. 
+
+First impression, I was very happy with the size of the suite and all the facilities.
+But the nightmares began soon after. It started with a cabinet door that suddenly fell. I couldn't get the door hinges and screws to work at all. It seemed like the door was previously attached by gorilla tape as a temporary fix. Maintenence came to the room to fix it with more gorilla tape but failed. The guy took the cabinet door completely off instead. After that, there was the ant problem. There were so, so many ants roaming all over the kitchen area. This issue was dealt with rather quickly (ant poison was sprinkled all over). Therefore, I was pretty impressed with the customer service.
+
+After a full day of city exploring in the blazing sun, I was looking forward to a bubble bath. That's when I noticed all the drain flies in the bathroom. I killed at least 6 flies during my very quick shower. There were many, many more drain flies in the bathroom. When I reported the problem, they suggested moving me to a room on the upper floor that had no insect problems.
+
+After I stayed in the new room for a few minutes, I was scared and I begged them to move me back to the previous room. I felt horrible for asking but there was a very large patch of mold on the ceiling in the bathroom. The walls were moldy as well. Also, there was a horrendous amount of drain flies in the bathroom.
+
+After I returned to the original room, I spotted many baby cockroaches. I didn't say anything to the hotel staff, I just couldn't wait to get out of there.
+
+I was traveling on my own for the first two nights, and then my friend was going to join me. We have both decided to cancel the booking of this horrible place and look for another hotel/ b&b instead.
+
+When I checked out of the hotel, the staff aske",I killed at least 6 flies during my very quick shower,0.6519,0.2275,0.0754,0.0238,0.0214,1.5354,2e_1
+Soho Suites KLCC by Leala,5 stars out of 5,Enjoyed staying here. A great spot in a good central location to KLCC. Some minor issues which were rectified. Was a good value option in KL,A great spot in a good central location to KLCC,0.0028,0.0033,0.033,0.4158,0.545,4.4969,3d_2
+Soho Suites KLCC by Leala,5 stars out of 5,"We were greeted by JD upon arrival, his service was superb during our stay. The apartment was fantastic. Parking is convenient. Location is walking distance to KLCC and Bukit Bintang. We will stay there again when we go KL. Thanks.",Parking is convenient,0.0076,0.019,0.2162,0.4986,0.2586,3.9815,4j
+Soho Suites KLCC by Leala,5 stars out of 5,"The service apartment is clean, well equipped and easily accessible, within walking distance from KLCC and various convenience stores. 
+The 2 main bedrooms were also very comfortable and spacious. 
+JP, the staff, was helpful and quick to respond via whatsapp. 
+
+A couple of things to note is that the area occasionally has traffic jams on weekend nights, making the cab ride back long and difficult. Also, the wifi in the apartment crashes sometimes, but it could also be a city-wide wifi problem.","The service apartment is clean, well equipped and easily accessible, within walking distance from KLCC and various convenience stores",0.003,0.0045,0.0415,0.3908,0.5602,4.5006,3d_1
+Soho Suites KLCC by Leala,5 stars out of 5,"Honest review - Simply 10/10.
+
+We arrived at Soho Suites at 10.30pm after a night flight, but the host JP had already been waiting in front of the building. Despite the late night he proceeded with a smooth check-in, helped with our luggage and explained all facilities.
+
+Room - Ours was a 2-bedroom apartment with 1 bathroom. All rooms were SO clean I was really amazed. The living area was spacious as well.
+
+Facilities - Equipped with TV (Netflix, YouTube, Malaysian TV, hundreds of channels), microwave, stove, fridge, washing machine, dryer, iron & board, drying rack, ALL complete and labelled even! So organised and easily used even without any manual. Pots and pans, cutlery, cups and plates, you name it. So so complete.
+
+Toilet - Super clean, enough toilet rolls, towels, hand wash, shower gel and soap provided. 
+
+Overall I can't say enough how much I loved the apartment (lucky to have found it!) especially how comfortable it was for my elderly parents. Stayed for 5 days and would strongly recommend this amazing apartment to others!!","Toilet - Super clean, enough toilet rolls, towels, hand wash, shower gel and soap provided",0.0035,0.0048,0.0266,0.2926,0.6725,4.6259,2e_1
+Soho Suites KLCC by Leala,5 stars out of 5,"Honest review - Simply 10/10.
+
+We arrived at Soho Suites at 10.30pm after a night flight, but the host JP had already been waiting in front of the building. Despite the late night he proceeded with a smooth check-in, helped with our luggage and explained all facilities.
+
+Room - Ours was a 2-bedroom apartment with 1 bathroom. All rooms were SO clean I was really amazed. The living area was spacious as well.
+
+Facilities - Equipped with TV (Netflix, YouTube, Malaysian TV, hundreds of channels), microwave, stove, fridge, washing machine, dryer, iron & board, drying rack, ALL complete and labelled even! So organised and easily used even without any manual. Pots and pans, cutlery, cups and plates, you name it. So so complete.
+
+Toilet - Super clean, enough toilet rolls, towels, hand wash, shower gel and soap provided. 
+
+Overall I can't say enough how much I loved the apartment (lucky to have found it!) especially how comfortable it was for my elderly parents. Stayed for 5 days and would strongly recommend this amazing apartment to others!!",) especially how comfortable it was for my elderly parents,0.0084,0.0151,0.0698,0.3659,0.5408,4.4157,7a
+Soho Suites KLCC by Leala,5 stars out of 5,"I seldom leave reviews but wanted to leave one for JP and his staff. I arrived at 530am and was fretting over a place for us to rest, particularly given that I have an elderly (my Dad) with me. JP was so accomodating and tried his best to give the room to us soonest possible. That gave our trip off to a good start. Everything else was perfect and there was nth to complain abt. The 2 bedroom apartment was as what pice have shown and was cosy. Wld def return for a stay the next time I am.im KL.","I arrived at 530am and was fretting over a place for us to rest, particularly given that I have an elderly (my Dad) with me",0.1479,0.2798,0.2427,0.2076,0.122,2.8761,7a
+Soho Suites KLCC by Leala,5 stars out of 5,"Everything's perfect. We're really satisfied with everything including cleanliness, price, location, staff, facilities, free high-speed Wifi and free parking. The apartment is very clean, tidy, comfortable and fully equipped. It has great view, you can see both KL Tower and KLCC (Petronas Twin Towers). The price per night is affordable. The location is very near to KLCC, you can just walk to KLCC. We can extend check-out without any charges. We're supposed to check-out at 12pm but we requested to extend check-out at 1.30pm because we want to do Zohor prayer before we leave. Thanks to Mr Jp and Amit for your excellent service. We really recommend this place for those who want to stay near KLCC with comfort.","We're really satisfied with everything including cleanliness, price, location, staff, facilities, free high-speed Wifi and free parking",0.0012,0.0015,0.0175,0.3217,0.6582,4.6342,4j
+Soho Suites KLCC by Leala,5 stars out of 5,The parking space is quite small not suitable for mpv,The parking space is quite small not suitable for mpv,0.1763,0.4565,0.336,0.0277,0.0035,2.2256,4j
+Soho Suites KLCC by Leala,5 stars out of 5,Wish the booking included use of pool n gym facilities….,Wish the booking included use of pool n gym facilities…,0.1216,0.1302,0.2835,0.2945,0.1702,3.2615,6d_1
+Soho Suites KLCC by Leala,5 stars out of 5,"We love the spacious rooms, and very clean space. complete with facilities a traveling family needs. Near to a lot of convenience store like mynews,7-11 and CU. Also near to Mcdonalds, El Toro and to a  food hub of various indian/western food choices. 
+Sir JP even arranged our transport from the airport to their condo unit. 2 Thumbs up for that extra effort. 
+
+Stay here is Definitely worth your money","Near to a lot of convenience store like mynews,7-11 and CU",0.0615,0.1378,0.2504,0.312,0.2383,3.5277,3d_1
+Soho Suites KLCC by Leala,5 stars out of 5,"The staff, JP,  was very helpful and accomodating. All our requests were met without hesitation! It took about 10-15 mins to walk to KLCC or Bukit Bintang (either way). Not recommended for older people as we need to walk quite a distance. Can wash our own clothes as we were provided with washing machine and dryer machine. From our room’s window can see KL Tower and KLCC. Suitable for family with children.",Not recommended for older people as we need to walk quite a distance,0.1725,0.4985,0.309,0.0176,0.0024,2.1788,7a
+Soho Suites KLCC by Leala,5 stars out of 5,"When we arrived , one of the staff guide us along where’s the parking lot , where to use access card , all informations are given via whatsapp. 
+The unit was cleaned and have all basic items ( kitchen items , living room and bedroom items ) . Owner was friendly. 
+
+⭐️⭐️⭐️⭐️⭐️","When we arrived , one of the staff guide us along where’s the parking lot , where to use access card , all informations are given via whatsapp",0.1248,0.1243,0.2182,0.2988,0.2338,3.3927,4j
+Soho Suites KLCC by Leala,5 stars out of 5,"The stay was very comfortable and convenient for me and family. Please prepare a RM300 deposit upon checking in. Parking is available except after midnight, you really need to search for parking bay.
+
+I also liked the staffs. They were very courteous and helpful","Parking is available except after midnight, you really need to search for parking bay",0.1359,0.201,0.38,0.2245,0.0586,2.8688,4j
+Soho Suites KLCC by Leala,5 stars out of 5,The location is perfect to go Pavillion or KLCC.  The house is also very clean and cool. I want to specially thanks to the host being very friendly and helpful. He even offer me wheel chair for my mum when he saw my mum   not convenience to walk. Really great host and lovely stay!!,He even offer me wheel chair for my mum when he saw my mum   not convenience to walk,0.4049,0.2851,0.1617,0.0824,0.0659,2.1192,3d_1
+Soho Suites KLCC by Leala,5 stars out of 5,Good service from JP & AMIT. Guide me with everything.  But facilities mostly must pay. If you want to use swimming pool must pay RM20 per person even you just wanna chill or sitting still charge. And parking to hard if u drive big car. Overall nice stay. Thank you JP and team! Most impressive part JP can speak malay very well 😂Will come again later.,And parking to hard if u drive big car,0.2651,0.3193,0.2145,0.1128,0.0883,2.4401,4j
+Soho Suites KLCC by Leala,5 stars out of 5,"caution ! for guest wth young kids,no Pool for kids n there’s charges rm10 per kid/ rm20 per adult.
+
+The swimming pool is more suitable for adult,need to pay for gym entrance too.
+swimming pool opens as early as 7am to 10pm (closing)
+
+No playground.
+
+other than that,Mc D /7-11/ myNews ,local food just walking distance,less than 8minutes.
+
+if u into Bars n korean halal food(takeaway style) u in luck coz ample to choose ur fav bars (and grill/non halal)
+
+No worries if too lazy to cook.
+
+Washer,Dryer
+netflix,satellite tv ,full equipped kitchen wth utensils just bring ur own uncooked food.
+
+Walking distance to both KLCC n pavilion 
+ample ATMs
+
+in SHORT
+a great place.
+
+great host n staff.
+
+i do appreciate they prepare a sejadah for us to pray without me asking ;they very attentive (thanks JP and Amit😌😉)
+
+kpd Muslim luar KL jgn risau,byk sgt makanan halal luar SOHO,dkt dan mudah,jika tidak mahu masak,atau bawa barang mentah nak masak pun ada peralatan dapur.bawa asas spt minyak je tu pun mudah nk beli ada mart dkt dpn SOHO.
+dlm klcc dan pavilion pun ada supermarket,dtg dan enjoy.","The swimming pool is more suitable for adult,need to pay for gym entrance too",0.0809,0.338,0.4478,0.1044,0.0289,2.6625,6d_1
+Soho Suites KLCC by Leala,5 stars out of 5,"caution ! for guest wth young kids,no Pool for kids n there’s charges rm10 per kid/ rm20 per adult.
+
+The swimming pool is more suitable for adult,need to pay for gym entrance too.
+swimming pool opens as early as 7am to 10pm (closing)
+
+No playground.
+
+other than that,Mc D /7-11/ myNews ,local food just walking distance,less than 8minutes.
+
+if u into Bars n korean halal food(takeaway style) u in luck coz ample to choose ur fav bars (and grill/non halal)
+
+No worries if too lazy to cook.
+
+Washer,Dryer
+netflix,satellite tv ,full equipped kitchen wth utensils just bring ur own uncooked food.
+
+Walking distance to both KLCC n pavilion 
+ample ATMs
+
+in SHORT
+a great place.
+
+great host n staff.
+
+i do appreciate they prepare a sejadah for us to pray without me asking ;they very attentive (thanks JP and Amit😌😉)
+
+kpd Muslim luar KL jgn risau,byk sgt makanan halal luar SOHO,dkt dan mudah,jika tidak mahu masak,atau bawa barang mentah nak masak pun ada peralatan dapur.bawa asas spt minyak je tu pun mudah nk beli ada mart dkt dpn SOHO.
+dlm klcc dan pavilion pun ada supermarket,dtg dan enjoy.","if u into Bars n korean halal food(takeaway style) u in luck coz ample to choose ur fav bars (and grill/non halal)
+
+No worries if too lazy to cook",0.116,0.1841,0.2796,0.2602,0.1602,3.1644,5a_3
+Soho Suites KLCC by Leala,5 stars out of 5,"caution ! for guest wth young kids,no Pool for kids n there’s charges rm10 per kid/ rm20 per adult.
+
+The swimming pool is more suitable for adult,need to pay for gym entrance too.
+swimming pool opens as early as 7am to 10pm (closing)
+
+No playground.
+
+other than that,Mc D /7-11/ myNews ,local food just walking distance,less than 8minutes.
+
+if u into Bars n korean halal food(takeaway style) u in luck coz ample to choose ur fav bars (and grill/non halal)
+
+No worries if too lazy to cook.
+
+Washer,Dryer
+netflix,satellite tv ,full equipped kitchen wth utensils just bring ur own uncooked food.
+
+Walking distance to both KLCC n pavilion 
+ample ATMs
+
+in SHORT
+a great place.
+
+great host n staff.
+
+i do appreciate they prepare a sejadah for us to pray without me asking ;they very attentive (thanks JP and Amit😌😉)
+
+kpd Muslim luar KL jgn risau,byk sgt makanan halal luar SOHO,dkt dan mudah,jika tidak mahu masak,atau bawa barang mentah nak masak pun ada peralatan dapur.bawa asas spt minyak je tu pun mudah nk beli ada mart dkt dpn SOHO.
+dlm klcc dan pavilion pun ada supermarket,dtg dan enjoy.","i do appreciate they prepare a sejadah for us to pray without me asking ;they very attentive (thanks JP and Amit😌😉)
+
+kpd Muslim luar KL jgn risau,byk sgt makanan halal luar SOHO,dkt dan mudah,jika tidak mahu masak,atau bawa barang mentah nak masak pun ada peralatan dapur",0.043,0.183,0.3855,0.3023,0.0862,3.2059,5a_3
+Soho Suites KLCC by Leala,5 stars out of 5,"Location near klcc,pavilion.Jp was so helpful and responsive.parking was free .I booked 1unit with 2bedroom.all were good,clean.we can use pool,but we need to pay rm20for adult and rm10 for kids",parking was free,0.0699,0.0804,0.2424,0.3505,0.2568,3.644,4j
+Soho Suites KLCC by Leala,5 stars out of 5,The rooms and amenities are superb. The staffs are responsive and super helpful. From check in to housekeeping to check out - they took care of your luggages and needs like pro. The only down side - parking lots and paths are dangerously small particularly for big cars (you can see a lot) and no motorcycles parking lots - even for the paid public parking parking.,The only down side - parking lots and paths are dangerously small particularly for big cars (you can see a lot) and no motorcycles parking lots - even for the paid public parking parking,0.1726,0.3614,0.3,0.1313,0.0347,2.494,4j
+Imperial Lexis Kuala Lumpur,5 stars out of 5,"Room is well decorated, pool in room is also nice.
+Staff are all friendly and nice.
+You can see panorama view of Kuala Lumpur on the roof  from the pool, from gym and from sky deck!
+一定要去楼顶看吉隆坡全景，特别是观景台！在泳池和观景台都能同时看见吉隆坡塔和双子塔，而且是正对着两个塔！健身房风景也很好。
+酒店工作人员都很友好。房间虽然看不到多少景，不过房间里的泳池还算不错。","You can see panorama view of Kuala Lumpur on the roof  from the pool, from gym and from sky deck",0.0245,0.0311,0.1367,0.3708,0.4369,4.1646,6d_1
+Imperial Lexis Kuala Lumpur,5 stars out of 5,"Stayed here for 2 night on my birthday.  I booked a 2 bedroom suite. Beautiful room, very clean n very reasonably priced. Very well equipted with huge fridge, a induction cook stove, coffee maker with pods. Breakfast wasnt bad either.","Very well equipted with huge fridge, a induction cook stove, coffee maker with pods",0.002,0.0017,0.0065,0.1666,0.8232,4.8072,5b
+Imperial Lexis Kuala Lumpur,5 stars out of 5,"I stayed for two nights during a family trip. The user reviews before booking were very helpful, so I would like to write my detailed experience as well. The reasons I chose this hotel were the view from the room, the night view of the Twin Towers from the infinity pool, the sky bar and restaurant, the glass floor observation deck, and the gym – all of my preferences were met. To put it simply, it was a great decision and I strongly recommend this hotel to Japanese guests. Although my English is not very good, the staff were very friendly to us, and we hardly faced any difficulties. They also greeted us with a very cool traditional gesture of placing a hand on their heart, which seems to mean ""I show my sincere respect"" and ""I have sincerity towards you."" Therefore, I think Japanese people should not be shy and reciprocate in the same way. They will respond with a wonderful smile.
+
+After arriving, show the Agoda reservation screen at the hotel’s entrance on the first floor. They smoothly took care of our luggage and guided us to the 8th floor main front without any bags. After that, while enjoying a welcome drink, we filled in our email address, phone number, and signature on a tablet and paid a deposit of 500 RM with cash or credit card. Then, we listened to the explanation for our stay, and that was it.
+
+From the room on the 45th floor, the view of the Twin Towers and the cityscape in the distance is fantastic. There is a golf course behind the hotel, and we could see faraway mountains. The stylish interior gives a sense of cleanliness. The shower's water pressure and temperature were comfortable without any issues. The initial screen of the television also contained hotel information and facility guides, making it easy to look things up. It also had YouTube, which was great for watching Japanese news broadcasts.
+
+The pool on the 51st floor did not seem crowded at all, as far as I could tell.
+
+I had made a reservation for the sky bar on the 53rd floor in advance from Japan. As soon as I mentioned my name, they guided us right away. The breeze passing through felt nice, and we had a lovely time as a family. The dress code prohibits swimsuits, sandals, and caps. Fortunately, guests under 20 can enter until 9 PM, but since it's a place for adults to relax, I think it’s better suited for those in middle school and above.
+
+Additionally, the breakfast here offers a variety of international dishes with many booths, which is truly wonderful. I highly recommend adding this to the service.
+
+The area surrounding the hotel is safe. There are no traffic jams, and it is a bright, quiet high-rise hotel district. It’s within walking distance to the Petronas Twin Towers and the adjacent shopping mall Suria/ISETAN, allowing for a safe passage through the park. There’s also a 7-Eleven nearby, which is convenient (it may not show up on Google Maps since it just opened, so be cautious).
+
+I’ve said a lot, but visiting an unfamiliar country can be very anxiety-inducing. However, this hotel provided a sense of security that alleviated those worries. When I go to Malaysia again, I will definitely stay here again. And I want to greet everyone properly. Please allow me to use that lovely gesture of placing a hand on my heart. Until then, I wish everyone good health!","The reasons I chose this hotel were the view from the room, the night view of the Twin Towers from the infinity pool, the sky bar and restaurant, the glass floor observation deck, and the gym – all of my preferences were met",0.0566,0.1183,0.2281,0.3653,0.2317,3.5972,6d_1
+Imperial Lexis Kuala Lumpur,5 stars out of 5,"I stayed for two nights during a family trip. The user reviews before booking were very helpful, so I would like to write my detailed experience as well. The reasons I chose this hotel were the view from the room, the night view of the Twin Towers from the infinity pool, the sky bar and restaurant, the glass floor observation deck, and the gym – all of my preferences were met. To put it simply, it was a great decision and I strongly recommend this hotel to Japanese guests. Although my English is not very good, the staff were very friendly to us, and we hardly faced any difficulties. They also greeted us with a very cool traditional gesture of placing a hand on their heart, which seems to mean ""I show my sincere respect"" and ""I have sincerity towards you."" Therefore, I think Japanese people should not be shy and reciprocate in the same way. They will respond with a wonderful smile.
+
+After arriving, show the Agoda reservation screen at the hotel’s entrance on the first floor. They smoothly took care of our luggage and guided us to the 8th floor main front without any bags. After that, while enjoying a welcome drink, we filled in our email address, phone number, and signature on a tablet and paid a deposit of 500 RM with cash or credit card. Then, we listened to the explanation for our stay, and that was it.
+
+From the room on the 45th floor, the view of the Twin Towers and the cityscape in the distance is fantastic. There is a golf course behind the hotel, and we could see faraway mountains. The stylish interior gives a sense of cleanliness. The shower's water pressure and temperature were comfortable without any issues. The initial screen of the television also contained hotel information and facility guides, making it easy to look things up. It also had YouTube, which was great for watching Japanese news broadcasts.
+
+The pool on the 51st floor did not seem crowded at all, as far as I could tell.
+
+I had made a reservation for the sky bar on the 53rd floor in advance from Japan. As soon as I mentioned my name, they guided us right away. The breeze passing through felt nice, and we had a lovely time as a family. The dress code prohibits swimsuits, sandals, and caps. Fortunately, guests under 20 can enter until 9 PM, but since it's a place for adults to relax, I think it’s better suited for those in middle school and above.
+
+Additionally, the breakfast here offers a variety of international dishes with many booths, which is truly wonderful. I highly recommend adding this to the service.
+
+The area surrounding the hotel is safe. There are no traffic jams, and it is a bright, quiet high-rise hotel district. It’s within walking distance to the Petronas Twin Towers and the adjacent shopping mall Suria/ISETAN, allowing for a safe passage through the park. There’s also a 7-Eleven nearby, which is convenient (it may not show up on Google Maps since it just opened, so be cautious).
+
+I’ve said a lot, but visiting an unfamiliar country can be very anxiety-inducing. However, this hotel provided a sense of security that alleviated those worries. When I go to Malaysia again, I will definitely stay here again. And I want to greet everyone properly. Please allow me to use that lovely gesture of placing a hand on my heart. Until then, I wish everyone good health!","There are no traffic jams, and it is a bright, quiet high-rise hotel district",0.0033,0.0059,0.0505,0.4571,0.4831,4.4107,6e
+Imperial Lexis Kuala Lumpur,5 stars out of 5,"The room was spacious, clean, and well-designed, with a comfortable bed and a modern interior. Since the room was located at the corner, it offered two stunning views, which made the stay even more enjoyable.
+
+The bathroom was spotless, with the shower and toilet thoughtfully separated for convenience. The mini-bar was well-stocked, and I appreciated the separate wardrobe and workspace, which added to the room’s functionality.
+
+One of the highlights was the private pool on the 28th floor, offering an incredible view. However, I was disappointed with the cleanliness of the pool area. The glass surrounding the pool was covered in water stains that had not been cleaned, affecting the overall experience. Additionally, the pool itself had some debris, indicating a lack of proper maintenance.
+
+Despite these minor drawbacks, the stay was pleasant due to the overall cleanliness and comfort of the room. If the hotel improves the pool maintenance, this would be a near-perfect luxury experience.
+
+Beyond the room, the hotel offers impressive facilities. There is a skydeck on the 51st floor, providing an incredible panoramic view. The public pool, exclusively for residents, is a great alternative to the private pool, and there is also a bar on the 51st floor where guests can enjoy drinks with a fantastic cityscape. Another highlight is the Japanese restaurant on the 53rd floor, which offers an amazing dining experience with a full view of Kuala Lumpur.","The bathroom was spotless, with the shower and toilet thoughtfully separated for convenience",0.1158,0.3471,0.3565,0.1467,0.0339,2.6358,3d_1
+Imperial Lexis Kuala Lumpur,5 stars out of 5,"The room was spacious, clean, and well-designed, with a comfortable bed and a modern interior. Since the room was located at the corner, it offered two stunning views, which made the stay even more enjoyable.
+
+The bathroom was spotless, with the shower and toilet thoughtfully separated for convenience. The mini-bar was well-stocked, and I appreciated the separate wardrobe and workspace, which added to the room’s functionality.
+
+One of the highlights was the private pool on the 28th floor, offering an incredible view. However, I was disappointed with the cleanliness of the pool area. The glass surrounding the pool was covered in water stains that had not been cleaned, affecting the overall experience. Additionally, the pool itself had some debris, indicating a lack of proper maintenance.
+
+Despite these minor drawbacks, the stay was pleasant due to the overall cleanliness and comfort of the room. If the hotel improves the pool maintenance, this would be a near-perfect luxury experience.
+
+Beyond the room, the hotel offers impressive facilities. There is a skydeck on the 51st floor, providing an incredible panoramic view. The public pool, exclusively for residents, is a great alternative to the private pool, and there is also a bar on the 51st floor where guests can enjoy drinks with a fantastic cityscape. Another highlight is the Japanese restaurant on the 53rd floor, which offers an amazing dining experience with a full view of Kuala Lumpur.","The bathroom was spotless, with the shower and toilet thoughtfully separated for convenience",0.1158,0.3471,0.3565,0.1467,0.0339,2.6358,2e_1
+Imperial Lexis Kuala Lumpur,5 stars out of 5,"I was expecting that i would get the room that i booked 2-3 months earlier which is the executive pool room but they gave me the premium pool suite (which they said that this is a complimentary upgrade, but i honestly felt that it was a downgrade instead). I booked the executive pool room to have the pool view from my room but the one they gave me doesn’t have any pool view, and its on the end of the floor room instead. I honestly thought that my anniversary celebration would be great but it was such a dissapointment to experience this. To add, on top of it, the shower room also clogged huhu it is room 3310","To add, on top of it, the shower room also clogged huhu it is room 3310",0.2387,0.2878,0.278,0.1173,0.0781,2.5084,2e_1
+Imperial Lexis Kuala Lumpur,5 stars out of 5,"I am impressed by the delicate 100% attentiveness of the staff.  The most impressive part is that there are many staffs including interns in this hotel, whereever i go there is staff attend to you! They will come to you without questions ask. World class treatment in terms of helpfulness and service. 
+
+Just slight difference when i come to the restaurant chef or staff when i asked about a bun however just use his hand to flip the bun and food which i find slight unhygenic and less attentive when i tried to ask them about the food. Overall however the foood is nice.
+
+In terms of room wise really love the room with the pool. Feels like a royal king/queen staying inside with own private pool and balcony facing the twin towers. The faciliites like shower etc very good hot enough for a hot bath after pool!",The faciliites like shower etc very good hot enough for a hot bath after pool,0.0072,0.0157,0.1117,0.5362,0.3292,4.1644,2e_1
+Imperial Lexis Kuala Lumpur,5 stars out of 5,"Upon arrival concierge was able to recognise us and assisted with our luggage and check in well. This shows the excellent personalised service of a hotel.
+Check in and checkout were easy and fast.
+Though the restaurant was busy and has quite a crowd during breakfast, there's space for us to sit and enjoy the food - good variety. 
+
+Pool was cold but we had an enjoyable time, just wish a little more privacy would be great.
+
+Otherwise, love and will return again when opportunity arise.",Upon arrival concierge was able to recognise us and assisted with our luggage and check in well,0.0035,0.0047,0.0571,0.3932,0.5415,4.4645,4i
+Imperial Lexis Kuala Lumpur,5 stars out of 5,"It's a large room with very comfy bed, in room pool was rather small and the water was murky. Staff with bad services, need to self request for vanity kit and refill of the sanitary bag. You can hear every sound when passing by every door, there's no soundproof for a hotel!! 
+Hotel was totally block from KLCC view, need to go through the residence lift and reach the sky deck only with views. 
+Location wise quite near to MRT Conlay and walking distance to KLCC / Pavillion, but it's a horrible placw to get in by car. The parking is not friendly and limited.
+Just forget the meal, they don't even have enough table to accomodate 1/3 of the guests. You will need to queue up to 30minutes to wait for table and their choices of food was limited too.",The parking is not friendly and limited,0.3782,0.4211,0.1824,0.0151,0.0033,1.8443,4j
+Imperial Lexis Kuala Lumpur,5 stars out of 5,Everything is okay except the parking. I don't understand how they design the carpark for a five stars hotel. Is confusing. No proper signage on which way to go. Swimming pool is a bit small. Breakfast is good.,Everything is okay except the parking,0.0238,0.0931,0.5971,0.2583,0.0277,3.1729,4j
+Imperial Lexis Kuala Lumpur,5 stars out of 5,"I stay at rm 3905 with private indoor pool. The room is clean and spacious. My children can play hide and seek. The staffs are all great and they have an excellent customer service. I love the stay there and definitely will come again. Anyway why its almost? Because the drain in  shower room seem like choked. Water went inside very slow and when i shower, it almost like a flood. The rest is perfect.",Because the drain in  shower room seem like choked,0.2892,0.4002,0.2613,0.0399,0.0094,2.0801,2e_1
+Imperial Lexis Kuala Lumpur,5 stars out of 5,"Breakfast, cleanliness, quality, service was top notch. The pool in the room was great and had a nice view.  Beverages in the room was complimentary. There will always be staff around the reception, concierge and the entrance to assist/greet you 24/7. Once I had an issue with call a Grab taxi, a staff helped me booked using his hp and making sure that I got my taxi. The only downside I have was the Wi-Fi. It was not strong and i was having difficulty doing my work. The price per night was quite steep. I booked the hotel when I had some discounts from Agoda. You will need to walk about 5-10min if you want to go to Pavilion/BB. Otherwise, everything was great. Highly recomended.","There will always be staff around the reception, concierge and the entrance to assist/greet you 24/7",0.0226,0.0318,0.0975,0.3525,0.4957,4.2669,4i
+Imperial Lexis Kuala Lumpur,5 stars out of 5,"Breakfast, cleanliness, quality, service was top notch. The pool in the room was great and had a nice view.  Beverages in the room was complimentary. There will always be staff around the reception, concierge and the entrance to assist/greet you 24/7. Once I had an issue with call a Grab taxi, a staff helped me booked using his hp and making sure that I got my taxi. The only downside I have was the Wi-Fi. It was not strong and i was having difficulty doing my work. The price per night was quite steep. I booked the hotel when I had some discounts from Agoda. You will need to walk about 5-10min if you want to go to Pavilion/BB. Otherwise, everything was great. Highly recomended.","Once I had an issue with call a Grab taxi, a staff helped me booked using his hp and making sure that I got my taxi",0.0274,0.0376,0.0904,0.3668,0.4778,4.2301,3f
+Imperial Lexis Kuala Lumpur,5 stars out of 5,Hotel was great except the shower keep on clogging.,Hotel was great except the shower keep on clogging,0.0681,0.177,0.4275,0.281,0.0465,3.0608,2e_1
+Imperial Lexis Kuala Lumpur,5 stars out of 5,"Overall impressed with the staff friendliness and attentive attitude . Room is spacious but the pte pool glass panel need to be higher as it’s dangerous for kids who jumped into pool from the stairs , it’s too close to the edge and low . This should be fixed before any untoward accident happened . Tku","Room is spacious but the pte pool glass panel need to be higher as it’s dangerous for kids who jumped into pool from the stairs , it’s too close to the edge and low",0.0617,0.3558,0.5057,0.0707,0.0061,2.6036,2a_1
+Imperial Lexis Kuala Lumpur,5 stars out of 5,"Booked a night stay for my partner’s birthday celebration. To our surprise, Lexis has gifted us with birthday cake and a complimentary birthday wish card. They have complimentary minibar as well. The shower water pressure was good! The private pool was awesome! Missed the chance to witness the KLCC tower view from the infinity pool at Level 51! Will definitely come back again just for the breathtaking view and experience! The buffet breakfast was great, various types of food! Overall it’s worth the penny!",The shower water pressure was good,0.016,0.0434,0.2752,0.4717,0.1938,3.7839,2e_1
+Imperial Lexis Kuala Lumpur,5 stars out of 5,"Love the hospitality from the hotel staff. Prior check in, welcome drink was served & staff was very polite. Love the breakfast spread, so many variety of food options & unique. My kids definitely love the pool, good size however the water is too cold 🥶. I find the spa prices quite steep rm 420 which is more than triple from offered outside. Overall excellent stay . Recommended.",I find the spa prices quite steep rm 420 which is more than triple from offered outside,0.0492,0.2971,0.5605,0.0815,0.0116,2.7091,6b_1
+Imperial Lexis Kuala Lumpur,5 stars out of 5,"A luxury 5 star hotel in the heart of Kula Lumpur with a pool inside all rooms. The service from concierge to reception to housekeeping to the restaurant is superb!!! I spend the whole day in the hotel itself to enjoy the facilities and the surroundings with the tip top services they have given. The view in the day and night are spectacular! 
+Housekeeping with new sheets and towels daily makes it more hygiene. An umbrella for use at anytime. A small shopping bag to help you with the shopping as they moved towards sustainability, even water bottle are glass. House slipper and matching slippers! And last but not least, a great surprise of the fruit platter upon arrival in the room for my advance celebration for my wedding anniversary. I would come back for sure.... Thank you Imperial Lexis for making my 4 days stay a memorable one!",The service from concierge to reception to housekeeping to the restaurant is superb,0.0039,0.0047,0.0412,0.3325,0.6178,4.5556,4i
+Imperial Lexis Kuala Lumpur,5 stars out of 5,"We love the fact that there is an in-room pool that my husband and I can swim in privacy. We were also spoilt for choice and very impressed by the halal food spread of a variety of cuisines for the buffet breakfast. Hotel interior was breathtaking as well, exuding timeless elegance.",We were also spoilt for choice and very impressed by the halal food spread of a variety of cuisines for the buffet breakfast,0.0133,0.0197,0.0445,0.3115,0.6109,4.487,5a_3
+Imperial Lexis Kuala Lumpur,5 stars out of 5,"Newly built hotel right in the heart of KL - a drivew away from famous malls. Everything is new. Huge bedroom and bathroom but small living room & walk in wadrobe.
+
+Swimming pool in the room is an awesome idea but it could be a hazard to young kids. The glass couldve been covered more towards the top instead of half.  Marble flooring is quite slippery when wet. No locks on shower area.  Should have some place to hang towels / wet clothes (after swim) 
+
+I would say this room is more suitable for couples or families with no kids. Overall a great stay!",No locks on shower area,0.2637,0.2564,0.2592,0.1402,0.0805,2.5175,2e_1
+Imperial Lexis Kuala Lumpur,5 stars out of 5,"Dgn hampir rm1500 semalam.  Maaf cakap tak berbaloi. Bole dpt hotel 5 star lain 3 malam stay.
+
+Pro : Layanan staf terbaik. Check in dia Mai entertain kita.. welcome drink m towel basah. Tutur kata yg sopan. Joki valet parking terbaik.
+
+Cons :  Bilik premium pool hadapi construction sebelah. Tp nk buat camna kan.
+Ekon bilik tido tak sejuk spt diharapkan. 
+Sabun n syampoo habis bila bgtau dorang cakap esok baru ada housekeeping dah balik. Ni agak sedih.  Mandi tak bersabun. Kalau rate below rm1kcm lexis Penang ok lagi ni 1.5k agak keras Dan tak berbaloi.",Joki valet parking terbaik,0.0056,0.0056,0.0241,0.1359,0.8288,4.7766,4h
+Imperial Lexis Kuala Lumpur,5 stars out of 5,"Spent a night and I have not regret it since. From the moment we arrived, the staff was so polite, friendly and helpful. All smiles greeted us until we checked out. The rooms caught us by surprise. So luxurious especially the toilet. We were in awe. The breakfast spread was great not to mentioned the coffee house itself and a lot of varieties (foods). The pool in the room is quite big and can fit 4 adult easily.  Location wise it's not so near to KLCC nor Pavillion as you need to walk around 10-15 minutes. But since we are driving that is not an issue. Lastly, the skydeck and infinity pool just took our breath away with view. Especially at night. Simply superb. Uninterrupted view of KLCC and KL Tower. First time I have no complaint at all on our stay and will definitely come again. Lastly, special shout out to the staff Rizal (Chief Concierge). So very attentive and friendly.","Lastly, special shout out to the staff Rizal (Chief Concierge)",0.145,0.1419,0.1964,0.2657,0.251,3.3358,4i
+Imperial Lexis Kuala Lumpur,5 stars out of 5,Kiblat direction in the room might be questionable and the alley at the lift areas are too dark. Choice of Malaysian spread during breakfast especially Malay is quite limited.,Kiblat direction in the room might be questionable and the alley at the lift areas are too dark,0.1059,0.3648,0.442,0.0784,0.0089,2.5195,2d
