@@ -1,4 +1,5 @@
 from playwright.sync_api import sync_playwright
+import playwright
 from bs4 import BeautifulSoup
 from datetime import datetime
 import csv, os, re, time
@@ -246,7 +247,7 @@ def get_hotel_results_page(context, city, timeout=15000):
     return context.pages[0]
 
 
-def scrape_reviews_from_agoda(
+async def scrape_reviews_from_agoda(
     city: str, star_rating: int, start_date=None, end_date=None
 ):
     sanitized_city = city.lower().replace(" ", "_")
@@ -259,7 +260,10 @@ def scrape_reviews_from_agoda(
     parsed_end_date = datetime.strptime(end_date, "%d-%m-%Y") if end_date else None
 
     with sync_playwright() as p:
-        browser = p.chromium.launch(headless=False)
+        browser = await playwright.chromium.launch(
+            headless=True, args=["--no-sandbox", "--disable-setuid-sandbox"]
+        )
+
         context = browser.new_context()
         page = context.new_page()
 
@@ -294,7 +298,7 @@ def scrape_reviews_from_agoda(
             print("⚠️ Continuing without star rating filter")
 
         hotel_links = []
-        hotel_ids = []  
+        hotel_ids = []
         page_num = 1
 
         while True:
