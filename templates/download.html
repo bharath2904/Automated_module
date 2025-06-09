@@ -31,6 +31,7 @@
 <body>
     <h1>Sentiment Analysis Complete!</h1>
     <p>Your results are ready for download.</p>
-    <button href="{{ url_for('download_file', filename=filename) }}" class="btn">Download CSV</button>
+    <!-- <button href="{{ url_for('download_file', filename=filename) }}" class="btn">Download CSV</button> -->
+    <a href="{{ url_for('download_file', filename=filename) }}" class="btn">Download CSV</a>
 </body>
 </html>

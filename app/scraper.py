@@ -259,7 +259,7 @@ def scrape_reviews_from_agoda(
     parsed_end_date = datetime.strptime(end_date, "%d-%m-%Y") if end_date else None
 
     with sync_playwright() as p:
-        browser = p.chromium.launch(headless=False)
+        browser = p.chromium.launch(headless=True)
         context = browser.new_context()
         page = context.new_page()
 
