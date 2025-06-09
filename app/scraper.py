@@ -267,7 +267,13 @@ def scrape_reviews_from_agoda(
         page = context.new_page()
 
         print(f"🌍 Searching hotels in: {city}")
-        page.goto("https://www.agoda.com", timeout=20000)
+        try:
+            page.goto("https://www.agoda.com", timeout=90000, wait_until="domcontentloaded")
+            print("✅ Successfully navigated to Agoda.com")
+        except Exception as e:
+            print(f"❌ Critical error: Failed to load Agoda's homepage. {e}")
+            browser.close()
+            return
 
         try:
             print("Attempting to click cookie accept button...")
@@ -294,7 +300,7 @@ def scrape_reviews_from_agoda(
         except:
             pass
 
-        hotel_page = get_hotel_results_page(context, city)
+        hotel_page = get_hotel_results_page(context, city, timeout=60000)
 
         if not apply_star_rating_filter(hotel_page, star_rating):
             print("⚠️ Continuing without star rating filter")
