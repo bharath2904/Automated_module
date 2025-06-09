@@ -259,16 +259,22 @@ def scrape_reviews_from_agoda(
     parsed_end_date = datetime.strptime(end_date, "%d-%m-%Y") if end_date else None
 
     with sync_playwright() as p:
-        browser = p.chromium.launch(headless=False)
-        context = browser.new_context()
+        browser = p.chromium.launch(headless=True)
+        context = browser.new_context(
+            # Optional: Set a user agent to mimic a real browser
+            user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+        )
         page = context.new_page()
 
         print(f"🌍 Searching hotels in: {city}")
         page.goto("https://www.agoda.com", timeout=20000)
 
         try:
-            page.locator("button#onetrust-accept-btn-handler").click(timeout=5000)
-        except:
+            print("Attempting to click cookie accept button...")
+            page.locator("button#onetrust-accept-btn-handler").click(timeout=10000)
+            print("✅ Cookie button clicked.")
+        except Exception as e:
+            print("⚠️ Cookie button not found or could not be clicked. Continuing...")
             pass
 
         # Input city and search - more reliable method

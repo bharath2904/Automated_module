@@ -155,7 +155,7 @@ def run_sentiment_analysis(input_file, output_file, batch_size=16):
 
         for row in tqdm(reader, desc="Processing reviews"):
             review = row["review"]
-            hotel = row["hotel"]
+            hotel = row["hotel_name"]
             rating = row["rating"]
             sentences = re.split(r'[.!?]', review)
             for sentence in sentences:
