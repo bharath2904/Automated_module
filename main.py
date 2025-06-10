@@ -74,6 +74,7 @@
 #         print(f"Error starting server: {e}")
 # project/main.py (Updated Version)
 
+
 from flask import Flask, render_template, request, redirect, url_for, send_from_directory
 import os
 from datetime import datetime
@@ -95,57 +96,30 @@ def index():
 
 @app.route('/start-scraping', methods=['POST'])
 def start_scraping():
+    # ... (full code for this route that uses q.enqueue) ...
     city = request.form['city']
     star_rating = int(request.form['star_rating'])
-    
     start_date = request.form.get('start_date', '')
     end_date = request.form.get('end_date', '')
-    
-    formatted_start_date = None
-    if start_date:
-        dt = datetime.strptime(start_date, "%Y-%m-%d")
-        formatted_start_date = dt.strftime("%d-%m-%Y")
-    
-    formatted_end_date = None
-    if end_date:
-        dt = datetime.strptime(end_date, "%Y-%m-%d")
-        formatted_end_date = dt.strftime("%d-%m-%Y")
-    
-    # --- THIS IS THE KEY CHANGE ---
-    # Instead of calling the function directly, we add it to the queue.
-    # The job will be run by our background worker.
-    q.enqueue(
-        scrape_and_analyze,
-        city,
-        star_rating,
-        formatted_start_date,
-        formatted_end_date,
-        job_timeout=1800  # Allow job to run for 30 minutes
-    )
-    
-    # Redirect to a new "job started" page
+    # ... date formatting ...
+    formatted_start_date = datetime.strptime(start_date, "%Y-%m-%d").strftime("%d-%m-%Y") if start_date else None
+    formatted_end_date = datetime.strptime(end_date, "%Y-%m-%d").strftime("%d-%m-%Y") if end_date else None
+
+    q.enqueue(scrape_and_analyze, city, star_rating, formatted_start_date, formatted_end_date, job_timeout=1800)
     return redirect(url_for('job_started_page', city=city.lower().replace(" ", "_")))
 
 @app.route('/job-started/<city>')
 def job_started_page(city):
-    # This page confirms the job started and provides the eventual download link.
-    # The user might have to wait a while for the file to be ready.
     output_filename = f"sentiment_{city}.csv"
+    # Use the simplified analysis.html template
     return render_template('analysis.html', city=city, filename=output_filename)
-
 
 @app.route('/download/<filename>')
 def download_file(filename):
-    # Make sure the 'output' directory exists before trying to send from it
     if not os.path.exists(OUTPUT_FOLDER):
         os.makedirs(OUTPUT_FOLDER)
     return send_from_directory(OUTPUT_FOLDER, filename, as_attachment=True)
 
-# Add a health check endpoint for Render
 @app.route('/healthz')
 def healthz():
     return "OK", 200
-
-# Remove the __main__ block, as gunicorn will run the app
-# if __name__ == '__main__':
-#     app.run(host='0.0.0.0', port=5000)
