@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!-- <!DOCTYPE html>
 <html>
   <head>
     <title>Sentiment Analysis</title>
@@ -117,4 +117,35 @@
       });
     </script>
   </body>
+</html> -->
+<!-- project/templates/analysis.html (Updated) -->
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Job Started!</title>
+    <style>
+        body { font-family: Arial, sans-serif; padding: 40px; background-color: #f2f2f2; text-align: center; }
+        .container { background-color: white; padding: 30px; border-radius: 10px; display: inline-block; box-shadow: 0 2px 10px rgba(0,0,0,0.1); }
+        h1 { color: #333; }
+        p { color: #666; max-width: 500px; margin: 20px auto; }
+        button { padding: 12px 25px; font-size: 16px; background-color: #4caf50; color: white; border: none; border-radius: 6px; cursor: pointer; text-decoration: none; }
+        a { text-decoration: none; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>✅ Job Started for {{ city.replace("_", " ").title() }}!</h1>
+        <p>
+            Your request has been received. The scraping and analysis process is running in the background.
+            This may take several minutes.
+        </p>
+        <p>
+            Once completed, your file will be available for download.
+        </p>
+        <a href="{{ url_for('download_file', filename=filename) }}" download>
+            <button>Download Result CSV</button>
+        </a>
+        <p><small>(If the download fails, please wait a few more minutes and try again.)</small></p>
+    </div>
+</body>
 </html>
